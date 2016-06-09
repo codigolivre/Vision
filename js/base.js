@@ -51,7 +51,7 @@ function initialize(){
 	var map = L.map('map',{
 		center: [-3.7487, -38.5243],
 		zoom: 14,
-		layers: [ocmap, bicicletar, bicicletario, airPump, bicicletaria]
+		layers: [mapboLayer, cycle, bicicletar, bicicletario, airPump, bicicletaria]
 	});
 	var base = {
 			"MapBox": mapboLayer,
@@ -67,11 +67,12 @@ function initialize(){
 			"Bicicletaria": bicicletaria
 	};
 	L.control.layers(base,layers).addTo(map);
+	
 	//https://github.com/domoritz/leaflet-locatecontrol
 	lc = L.control.locate({
     		strings: {
-        	title: "Show me where I am, yo!"
-    	}
+        	title: "Onde estou?"
+    		}
 	}).addTo(map);
     		
 	// https://github.com/perliedman/leaflet-control-geocoder
@@ -80,6 +81,7 @@ function initialize(){
    	geocoder.markGeocode = function(result) {
 	map.fitBounds(result.bbox);
    	};
+   	
 	function onLocationFound(e) {
 		var radius = e.accuracy / 2;
 		var cursor = L.icon({
