@@ -28,7 +28,7 @@ function initialize(){
 				break;
 			case 'bicycle_parking' : L.marker([data.elements[point].lat, data.elements[point].lon], {icon: bicicletarioIcon}).bindPopup('Estacionamento - '+data.elements[point].tags.name).addTo(bicicletario);
 				break;
-			case 'fuel' : L.marker([data.elements[point].lat, data.elements[point].lon], {icon: airPumpIcon}).bindPopup('Abasteça - '+data.elements[point].tags.name).addTo(airPump);
+			case 'fuel' : L.marker([data.elements[point].lat, data.elements[point].lon], {icon: airPumpIcon}).bindPopup('Calibragem - '+data.elements[point].tags.name).addTo(airPump);
 				break;
 		}	
 		if(data.elements[point].tags.shop == "bicycle"){
@@ -103,8 +103,3 @@ function initialize(){
 	map.on('locationerror', onLocationError);
 	};
 }
-
-
-//bbox: -4.129339914914841,-38.920440673828125,-3.4777819106581633,-37.766876220703125
-//http://overpass-api.de/api/interpreter?data=
-//[out:json][timeout:60];(node["amenity"="bicycle_rental"]('+ bbox + ');node["amenity"="bicycle_parking"]('+ bbox + ');node["amenity"="fuel"]('+ bbox + '););out;
