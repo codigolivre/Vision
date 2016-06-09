@@ -2,32 +2,50 @@ data = {
   "version": 0.6,
   "generator": "Overpass API",
   "osm3s": {
-    "timestamp_osm_base": "2016-06-04T17:23:02Z",
+    "timestamp_osm_base": "2016-06-09T15:49:04Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
     {
       "type": "node",
-      "id": 616060551,
-      "lat": -3.7244893,
-      "lon": -38.5511886,
+      "id": 3883953752,
+      "lat": -3.751151,
+      "lon": -38.5072093,
       "tags": {
-        "amenity": "fuel"
+        "addr:housenumber": "528 A",
+        "addr:street": "Rua Lívio Barreto",
+        "name": "Bitelli Bikes",
+        "shop": "bicycle"
       }
     },
     {
       "type": "node",
-      "id": 3833597217,
-      "lat": -3.7201971,
-      "lon": -38.511546,
+      "id": 4193449878,
+      "lat": -3.7315395,
+      "lon": -38.4851113,
       "tags": {
-        "amenity": "bicycle_rental",
-        "bicycle_parking": "lockers",
-        "capacity": "12",
-        "description": "Avenida Beira Mar 916 (Loja Sorvetão) / Esquina Rua João CordeiroSorvetão",
-        "name": "Aterrinho da Praia de Iracema",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "1680",
+        "addr:street": "Rua Ana Bilhar",
+        "addr:suburb": "Varjota",
+        "name": "Sport & Bike",
+        "operator": "Gilberto",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4224562935,
+      "lat": -3.7301438,
+      "lon": -38.5047905,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "25",
+        "addr:street": "Rua Edgar Damasceno",
+        "addr:suburb": "Meireles",
+        "name": "RPM Bike Shop",
+        "phone": "+55 85 98847-7511",
+        "shop": "bicycle"
       }
     },
     {
@@ -47,16 +65,179 @@ data = {
     },
     {
       "type": "node",
-      "id": 4225603184,
-      "lat": -3.7319971,
-      "lon": -38.5254315,
+      "id": 4225655058,
+      "lat": -3.745189,
+      "lon": -38.5375882,
       "tags": {
-        "access": "yes",
-        "amenity": "bicycle_parking",
-        "bicycle_parking": "stands",
-        "capacity": "14",
-        "covered": "no",
-        "name": "Cidade das Crianças"
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "1134",
+        "addr:street": "Rua Marechal Deodoro",
+        "addr:suburb": "Benfica",
+        "name": "GT Ciclo",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4225674469,
+      "lat": -3.7375646,
+      "lon": -38.5411973,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "2402",
+        "addr:street": "Rua Padre Mororó",
+        "addr:suburb": "Benfica",
+        "name": "Ciclo Benfica",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4228800830,
+      "lat": -3.7392582,
+      "lon": -38.5904829,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "5142",
+        "addr:street": "Avenida Mister Hull",
+        "addr:suburb": "Antônio Bezerra",
+        "name": "Ciclo Peças Timbó",
+        "phone": "+55 85 3235-5019",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4228830551,
+      "lat": -3.7303407,
+      "lon": -38.5764291,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "3980",
+        "addr:street": "Avenida Sargento Herminio Sampaio",
+        "addr:suburb": "Padre Andrade",
+        "name": "Santana Ciclo",
+        "phone": "+55 85 98555-5286",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4228843489,
+      "lat": -3.727071,
+      "lon": -38.5649098,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "2732",
+        "addr:street": "Avenida Sargento Herminio Sampaio",
+        "addr:suburb": "Vila Ellery",
+        "name": "Jonas Ciclo",
+        "phone": "+55 85 98821-9628",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4229161613,
+      "lat": -3.7754035,
+      "lon": -38.6060793,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "1528",
+        "addr:street": "Avenida A",
+        "addr:suburb": "Conjunto Ceará",
+        "name": "Kaciclista Peças - Conjunto Ceará",
+        "phone": "+55 85 3294-3097 / 3025-5231",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4229176199,
+      "lat": -3.7765788,
+      "lon": -38.614188,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "3615",
+        "addr:street": "Rua Sousa Carvalho",
+        "addr:suburb": "Granja Lisboa",
+        "name": "Universo Paralelo",
+        "phone": "+55 \t 85 3016-2380 / 98843-9946",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4229180338,
+      "lat": -3.7807981,
+      "lon": -38.5910521,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "1065",
+        "addr:street": "Rua Emílio de Menezes",
+        "addr:suburb": "Bonsucesso",
+        "name": "Cabiludo Ciclo",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4229183284,
+      "lat": -3.782151,
+      "lon": -38.5830993,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "216",
+        "addr:street": "Rua Vital Brasil",
+        "addr:suburb": "Bonsucesso",
+        "name": "Brasil Bike",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4229190928,
+      "lat": -3.7811566,
+      "lon": -38.5801427,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "1710 A",
+        "addr:street": "Avenida Augusto dos Anjos",
+        "addr:suburb": "Bonsucesso",
+        "name": "Nonato Ciclo",
+        "phone": "+55 85 3292-1132 / 98891-5810",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4230573112,
+      "lat": -3.7908196,
+      "lon": -38.588772,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "944",
+        "addr:street": "Rua Luís Vieira",
+        "addr:suburb": "Vila Peri",
+        "name": "Ciclopeças Maydany",
+        "phone": "+55 85 3292-1331",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4230573113,
+      "lat": -3.7911592,
+      "lon": -38.5891101,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "3454",
+        "addr:street": "Avenida General Osório de Paiva",
+        "addr:suburb": "Vila Peri",
+        "name": "Mota Ciclo",
+        "phone": "+55 85 3484-4526 / 85 3484-4985",
+        "shop": "bicycle",
+        "website": "fb.com/MotaCiclo"
       }
     },
   ]
