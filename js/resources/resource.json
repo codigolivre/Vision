@@ -2,7 +2,7 @@ data = {
   "version": 0.6,
   "generator": "Overpass API",
   "osm3s": {
-    "timestamp_osm_base": "2016-06-09T18:56:03Z",
+    "timestamp_osm_base": "2016-06-30T22:45:03Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -158,25 +158,6 @@ data = {
       "lon": -38.5532314,
       "tags": {
         "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2752343472,
-      "lat": -4.2248398,
-      "lon": -38.9204801,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "BP",
-        "fuel:GTL_diesel": "yes",
-        "fuel:biodiesel": "yes",
-        "fuel:diesel": "yes",
-        "fuel:e10": "yes",
-        "fuel:e85": "yes",
-        "name": "BR-Pacoti;Posto Pacoty",
-        "opening_hours": "Sa-Su 07:00-20:00",
-        "operator": "BR",
-        "shop": "convenience"
       }
     },
     {
@@ -812,8 +793,8 @@ data = {
     {
       "type": "node",
       "id": 3833597256,
-      "lat": -3.7314433,
-      "lon": -38.5427068,
+      "lat": -3.7318223,
+      "lon": -38.5432187,
       "tags": {
         "amenity": "bicycle_rental",
         "capacity": "12",
@@ -868,8 +849,8 @@ data = {
     {
       "type": "node",
       "id": 3833597260,
-      "lat": -3.7403203,
-      "lon": -38.498687,
+      "lat": -3.7385783,
+      "lon": -38.4981618,
       "tags": {
         "amenity": "bicycle_rental",
         "capacity": "12",
@@ -2145,5 +2126,329 @@ data = {
         "name": "IFCE Maracanaú"
       }
     },
+    {
+      "type": "node",
+      "id": 4243040829,
+      "lat": -3.7555065,
+      "lon": -38.5081045,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "1295",
+        "addr:street": "Rua Monsenhor Salazar",
+        "addr:suburb": "São João do Tauape",
+        "name": "Ciclomar Peças",
+        "phone": "+55 85 3272-3746",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4243856721,
+      "lat": -3.7484786,
+      "lon": -38.5032416,
+      "tags": {
+        "access": "customers",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "4",
+        "covered": "no",
+        "name": "Casa de Moá"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4248789526,
+      "lat": -3.7835238,
+      "lon": -38.4819466,
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "12",
+        "covered": "yes",
+        "name": "Reserva Open Mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4249267646,
+      "lat": -3.7416697,
+      "lon": -38.4959277,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "850",
+        "addr:street": "Avenida Padre Antônio Tomás",
+        "addr:suburb": "Aldeota",
+        "name": "Barcellos Sports Fortaleza",
+        "phone": "+55 85 3268-3782",
+        "shop": "bicycle",
+        "website": "http://www.barcellossportsfortaleza.com.br/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4249275542,
+      "lat": -3.7325823,
+      "lon": -38.5044595,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "2155 - loja 3",
+        "addr:street": "Rua Costa Barros",
+        "addr:suburb": "Aldeota",
+        "name": "Casa do Ciclista",
+        "phone": "+55 85 3224-7194",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4249278631,
+      "lat": -3.7296935,
+      "lon": -38.5090588,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "1554",
+        "addr:street": "Rua Pereira Filgueiras",
+        "addr:suburb": "Aldeota",
+        "name": "João Ciclo",
+        "phone": "+55 85 3248-8304",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4249504990,
+      "lat": -3.7446812,
+      "lon": -38.4960856,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "848",
+        "addr:street": "Rua General Tertuliano Potiguara",
+        "addr:suburb": "Aldeota",
+        "name": "Clara Peças",
+        "phone": "+55 85 98631-2397",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4249508130,
+      "lat": -3.7443452,
+      "lon": -38.5214528,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "81",
+        "addr:street": "Rua Pinho Pessoa",
+        "addr:suburb": "Joaquim Távora",
+        "name": "Amiguinho",
+        "phone": "+55 85 3252-4442",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4254609507,
+      "lat": -3.7461099,
+      "lon": -38.4890114,
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "12",
+        "covered": "no",
+        "name": "Bicicletário Mercadinhos São Luiz"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4262975299,
+      "lat": -3.7510909,
+      "lon": -38.4700884,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "195",
+        "addr:street": "Alameda Santa Mará",
+        "addr:suburb": "Cidade 2000",
+        "name": "Ciclo Adventure Fortaleza",
+        "phone": "+55 85 3249-3636",
+        "shop": "bicycle",
+        "website": "http://cicloadventurefortaleza.com.br/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4263187386,
+      "lat": -3.7765686,
+      "lon": -38.5873737,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "235",
+        "addr:street": "Rua Anselmo Nogueira",
+        "addr:suburb": "Bonsucesso",
+        "name": "Sinal Verde para o Ciclista - loja 2",
+        "phone": "+55 85 3290-1280",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4263187387,
+      "lat": -3.7766424,
+      "lon": -38.5875885,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "270",
+        "addr:street": "Rua Anselmo Nogueira",
+        "addr:suburb": "Bonsucesso",
+        "name": "Ciclovias Cordeiro",
+        "phone": "+55 85 3233-2273 / 98828-9918",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4263192253,
+      "lat": -3.7672159,
+      "lon": -38.5843928,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "400",
+        "addr:street": "Avenida Porto Velho",
+        "addr:suburb": "Henrique Jorge",
+        "name": "Bazar dos Ciclistas",
+        "phone": "+55 \t 85 3290-6402",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4263195494,
+      "lat": -3.7637951,
+      "lon": -38.5793818,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "731",
+        "addr:street": "Avenida Senador Fernandes Távora",
+        "addr:suburb": "Jóquei Clube",
+        "name": "Maia Ciclo",
+        "phone": "+55 85 3484-4873 / 98834-6761",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4263211045,
+      "lat": -3.7755995,
+      "lon": -38.5648928,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "124",
+        "addr:street": "Avenida Cônego de Castro",
+        "addr:suburb": "Parangaba",
+        "name": "Crisciclo",
+        "phone": "+55 85 3224-2828",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4263211046,
+      "lat": -3.775742,
+      "lon": -38.5644922,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "137",
+        "addr:street": "Rua Eduardo Perdigão",
+        "addr:suburb": "Parangaba",
+        "name": "CicloDias",
+        "phone": "+55 85 3225-6228",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4263222550,
+      "lat": -3.7515027,
+      "lon": -38.5674404,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "282",
+        "addr:street": "Rua Espírito Santo",
+        "addr:suburb": "Panamericano",
+        "name": "UTI das Bicicletas",
+        "phone": "+55 85 3482-8536 / 98726-9754",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4263231431,
+      "lat": -3.7452956,
+      "lon": -38.5610346,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "954",
+        "addr:street": "Rua Érico Mota",
+        "addr:suburb": "Amadeu Furtado",
+        "name": "JA Ciclo",
+        "phone": "+55 85 98791-4615",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4263251919,
+      "lat": -3.7470056,
+      "lon": -38.5568462,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "1182",
+        "addr:street": "Rua Francisca Clotilde",
+        "addr:suburb": "Rodolfo Teófilo",
+        "name": "Falcão Ciclo",
+        "phone": "+55 85 98781-9590",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4270037929,
+      "lat": -3.7686729,
+      "lon": -38.4811028,
+      "tags": {
+        "access": "permissive",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "12",
+        "covered": "no",
+        "name": "Unifor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4270037930,
+      "lat": -3.7698381,
+      "lon": -38.4817162,
+      "tags": {
+        "access": "permissive",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "12",
+        "covered": "no",
+        "name": "Unifor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4270037931,
+      "lat": -3.7712023,
+      "lon": -38.4807652,
+      "tags": {
+        "access": "permissive",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "12",
+        "covered": "no",
+        "name": "Unifor"
+      }
+    }
   ]
 }
