@@ -2,7 +2,7 @@ data = {
   "version": 0.6,
   "generator": "Overpass API",
   "osm3s": {
-    "timestamp_osm_base": "2016-06-30T22:45:03Z",
+    "timestamp_osm_base": "2016-07-10T16:38:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1450,23 +1450,6 @@ data = {
         "capacity": "8",
         "covered": "no",
         "name": "Bicicletário Le Pain Le Cafe"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4085743741,
-      "lat": -4.2675765,
-      "lon": -38.0555347,
-      "tags": {
-        "addr:city": "Beberibe",
-        "addr:housenumber": "Km 88",
-        "addr:postcode": "62842-000",
-        "addr:street": "CE-040",
-        "addr:suburb": "Sucatinga",
-        "amenity": "fuel",
-        "name": "Posto Marambaia",
-        "opening_hours": "6:00 - 21:00",
-        "operator": "SP"
       }
     },
     {
