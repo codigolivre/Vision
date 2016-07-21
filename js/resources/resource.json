@@ -1,29 +1,11 @@
-data = {
+{
   "version": 0.6,
   "generator": "Overpass API",
   "osm3s": {
-    "timestamp_osm_base": "2016-06-14T20:32:03Z",
+    "timestamp_osm_base": "2016-07-21T18:49:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
-    {
-      "type": "node",
-      "id": 252616730,
-      "lat": -4.996288,
-      "lon": -39.0322118,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 324829157,
-      "lat": -7.245368,
-      "lon": -35.851813,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
     {
       "type": "node",
       "id": 616060551,
@@ -62,189 +44,12 @@ data = {
     },
     {
       "type": "node",
-      "id": 687797006,
-      "lat": -7.2262415,
-      "lon": -35.8765123,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 688684305,
-      "lat": -7.1063139,
-      "lon": -37.7145358,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 694438701,
-      "lat": -7.6700246,
-      "lon": -36.8759565,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Zé Bola"
-      }
-    },
-    {
-      "type": "node",
-      "id": 773884326,
-      "lat": -6.8444271,
-      "lon": -38.3520348,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 773889095,
-      "lat": -6.871577,
-      "lon": -36.9110314,
-      "tags": {
-        "amenity": "fuel",
-        "operator": "Texaco"
-      }
-    },
-    {
-      "type": "node",
-      "id": 797774688,
-      "lat": -6.9943599,
-      "lon": -36.7123733,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Jeruzalém"
-      }
-    },
-    {
-      "type": "node",
-      "id": 797774689,
-      "lat": -7.2759665,
-      "lon": -35.9043309,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Milênio"
-      }
-    },
-    {
-      "type": "node",
-      "id": 942926079,
-      "lat": -7.2223992,
-      "lon": -36.6317559,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 951636689,
-      "lat": -5.7481896,
-      "lon": -35.9280756,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
       "id": 988327130,
       "lat": -3.6350068,
       "lon": -38.7126628,
       "tags": {
         "amenity": "fuel",
         "shop": "yes"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1051748109,
-      "lat": -7.4815609,
-      "lon": -36.1329594,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1258969412,
-      "lat": -8.1708462,
-      "lon": -36.193123,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1437618275,
-      "lat": -2.8239137,
-      "lon": -40.4090399,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1502130842,
-      "lat": -3.303856,
-      "lon": -39.5132167,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "SP",
-        "shop": "yes"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1516574328,
-      "lat": -2.9345264,
-      "lon": -39.9106493,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1569119616,
-      "lat": -7.4840067,
-      "lon": -36.6607854,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1569119617,
-      "lat": -7.6687154,
-      "lon": -36.8748992,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1570274603,
-      "lat": -7.3918723,
-      "lon": -36.5299638,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1570274613,
-      "lat": -7.3734323,
-      "lon": -36.9449159,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1570283133,
-      "lat": -7.2877303,
-      "lon": -35.8901357,
-      "tags": {
-        "amenity": "fuel"
       }
     },
     {
@@ -288,735 +93,6 @@ data = {
     },
     {
       "type": "node",
-      "id": 1647931739,
-      "lat": -6.9128896,
-      "lon": -37.6288659,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "Ale",
-        "fuel:biodiesel": "yes",
-        "fuel:biogas": "no",
-        "fuel:diesel": "yes",
-        "fuel:electricity": "no",
-        "name": "Auto Posto Agagenor I",
-        "opening_hours": "24/7"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1647933096,
-      "lat": -6.9046252,
-      "lon": -37.5274835,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "Ale",
-        "fuel:biodiesel": "yes",
-        "fuel:biogas": "no",
-        "fuel:diesel": "yes",
-        "fuel:electricity": "no",
-        "internet_access": "wlan",
-        "name": "Auto Posto Agagenor V",
-        "opening_hours": "24/7",
-        "wheelchair": "no"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1647933307,
-      "lat": -6.9041082,
-      "lon": -37.5217221,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "Ale",
-        "fuel:biodiesel": "yes",
-        "fuel:biogas": "no",
-        "fuel:diesel": "yes",
-        "fuel:electricity": "no",
-        "internet_access": "wlan",
-        "name": "Auto Posto Agagenor II",
-        "opening_hours": "24/7",
-        "operator": "Fan",
-        "surveillance": "indoor",
-        "wheelchair": "limited"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1647941090,
-      "lat": -6.9109621,
-      "lon": -37.6043237,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "BR",
-        "fuel:biodiesel": "yes",
-        "fuel:biogas": "no",
-        "fuel:diesel": "yes",
-        "fuel:electricity": "no",
-        "name": "Posto Boa Esperança IV",
-        "opening_hours": "24/7"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1647947442,
-      "lat": -6.9491785,
-      "lon": -37.396854,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Santa Gertrudes"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1647947702,
-      "lat": -6.8507701,
-      "lon": -37.4041668,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "BR",
-        "name": "Posto Flores",
-        "opening_hours": "Mo-Su (sunrise+01:00)-(sunset+01:00)"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1724792083,
-      "lat": -7.3657877,
-      "lon": -35.9008484,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1724796902,
-      "lat": -7.9061442,
-      "lon": -35.9813434,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1754047684,
-      "lat": -4.6781493,
-      "lon": -37.8225853,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1754049208,
-      "lat": -4.6818598,
-      "lon": -37.8221776,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1772056882,
-      "lat": -7.0856119,
-      "lon": -37.4429408,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Santa Terezinha"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1780549787,
-      "lat": -7.1600225,
-      "lon": -37.3071058,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto São José",
-        "opening_hours": "24/7"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1798496605,
-      "lat": -7.0238981,
-      "lon": -37.2784725,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Viola"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1798920503,
-      "lat": -4.5582277,
-      "lon": -37.7055502,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto de Combustível"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1798920758,
-      "lat": -4.5784708,
-      "lon": -37.7791809,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto de Combustível"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1801165173,
-      "lat": -7.0342247,
-      "lon": -37.3039327,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Patos"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1801165183,
-      "lat": -7.0309451,
-      "lon": -37.2899422,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1801176633,
-      "lat": -7.0363266,
-      "lon": -37.2787571,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Auto Posto Patoense",
-        "opening_hours": "24/7"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1802271608,
-      "lat": -7.0270319,
-      "lon": -37.2764857,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "BR",
-        "name": "Posto Paizão"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1802288434,
-      "lat": -7.0139982,
-      "lon": -37.2861309,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "BR",
-        "name": "O Carreteiro",
-        "opening_hours": "24/7"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1802288440,
-      "lat": -7.0111764,
-      "lon": -37.2903742,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Novo Horizonte"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1802288446,
-      "lat": -7.0055326,
-      "lon": -37.2991021,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Santa Francisca",
-        "opening_hours": "24/7"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1802302558,
-      "lat": -7.0222691,
-      "lon": -37.2794763,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "BR",
-        "name": "CID Posto",
-        "opening_hours": "24/7"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1803440645,
-      "lat": -7.2382932,
-      "lon": -37.2557912,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Pedra do Galo"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1812022717,
-      "lat": -7.0234212,
-      "lon": -37.2705489,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Brasília",
-        "opening_hours": "24/7"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1812022733,
-      "lat": -7.0230539,
-      "lon": -37.270734,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "BR",
-        "name": "Posto Petrobrás",
-        "opening_hours": "24/7"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1812038385,
-      "lat": -7.0224389,
-      "lon": -37.276152,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Auto Posto Califórnia"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1812038388,
-      "lat": -7.0239084,
-      "lon": -37.2775656,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Gipagel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1818285625,
-      "lat": -7.0195976,
-      "lon": -37.251367,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Tigrão",
-        "opening_hours": "24/7"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1832313734,
-      "lat": -5.1914375,
-      "lon": -37.3515228,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1832737202,
-      "lat": -5.1960878,
-      "lon": -37.3439678,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1847460560,
-      "lat": -6.7644839,
-      "lon": -38.2314151,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "Petrobras",
-        "name": "Posto Tiko & Teka"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1847570656,
-      "lat": -6.7617298,
-      "lon": -38.2260802,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "Setta",
-        "name": "Posto São Cristovão"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1849117171,
-      "lat": -6.7820548,
-      "lon": -38.2705918,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto São Gonçalo"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1850036112,
-      "lat": -6.7543346,
-      "lon": -38.2397485,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Barrozão"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1850036148,
-      "lat": -6.7503392,
-      "lon": -38.2414115,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1850074423,
-      "lat": -6.7602265,
-      "lon": -38.2297948,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posta Terceiro Milenium"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1851709572,
-      "lat": -6.7678435,
-      "lon": -38.2151076,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1854558755,
-      "lat": -6.7657631,
-      "lon": -38.2321571,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto São Francisco"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1855117423,
-      "lat": -6.7668513,
-      "lon": -38.2327407,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Andrezão II"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1855802388,
-      "lat": -6.7748291,
-      "lon": -38.2390978,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "BR Petrobrás",
-        "name": "Posto Pai Assis"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1855836970,
-      "lat": -6.7749997,
-      "lon": -38.1969711,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Andrezão"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1855866359,
-      "lat": -6.7786236,
-      "lon": -38.2404972,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "Ipiranga",
-        "name": "Posto Chabocão"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1860942213,
-      "lat": -6.7789399,
-      "lon": -38.2377175,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Jácome"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1862356408,
-      "lat": -6.7618664,
-      "lon": -38.2304875,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Cidade Sorriso"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1863128079,
-      "lat": -6.5256326,
-      "lon": -38.4154295,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1874582774,
-      "lat": -6.8947027,
-      "lon": -38.5787749,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1874582777,
-      "lat": -6.8923594,
-      "lon": -38.5806953,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1877805572,
-      "lat": -7.0156912,
-      "lon": -37.2749251,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "Ale",
-        "name": "Autoposto São Sebastião"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1883257168,
-      "lat": -6.9136885,
-      "lon": -38.323036,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1936231715,
-      "lat": -5.1914298,
-      "lon": -37.3560205,
-      "tags": {
-        "shop": "bicycle"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1936233326,
-      "lat": -5.1948805,
-      "lon": -37.3460003,
-      "tags": {
-        "shop": "bicycle"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1942313387,
-      "lat": -5.1911414,
-      "lon": -39.2972597,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1942313388,
-      "lat": -5.1913243,
-      "lon": -39.3018797,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "BR"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1942313392,
-      "lat": -5.1921448,
-      "lon": -39.2958578,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "BR"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1942313394,
-      "lat": -5.1927019,
-      "lon": -39.2906693,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "BR"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1942619020,
-      "lat": -4.7866262,
-      "lon": -40.0666621,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1944969377,
-      "lat": -4.6373948,
-      "lon": -39.2457399,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1944969479,
-      "lat": -4.8431777,
-      "lon": -39.1286792,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1944969503,
-      "lat": -4.8457495,
-      "lon": -39.1339562,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1944969511,
-      "lat": -4.9525812,
-      "lon": -39.0289228,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1944982658,
-      "lat": -4.2127616,
-      "lon": -39.734932,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1944982659,
-      "lat": -4.2323199,
-      "lon": -39.7777703,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1944982665,
-      "lat": -4.3533472,
-      "lon": -39.326614,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "Ipiranga"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1945236583,
-      "lat": -4.4387357,
-      "lon": -41.4471894,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1945236584,
-      "lat": -4.4389923,
-      "lon": -41.4463202,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1945236681,
-      "lat": -4.7035905,
-      "lon": -40.5513618,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1945236701,
-      "lat": -4.7232729,
-      "lon": -40.309412,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1945236733,
-      "lat": -4.7446619,
-      "lon": -40.9221349,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1945236736,
-      "lat": -4.7457083,
-      "lon": -40.9142179,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1945236738,
-      "lat": -4.7519037,
-      "lon": -40.8327606,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
       "id": 1947457013,
       "lat": -3.7459299,
       "lon": -38.5434474,
@@ -1024,395 +100,6 @@ data = {
         "amenity": "fuel",
         "brand": "Shell",
         "name": "Posto Shel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1948972953,
-      "lat": -4.8384198,
-      "lon": -40.3321594,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1948972954,
-      "lat": -4.9391753,
-      "lon": -40.5336287,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1948972955,
-      "lat": -4.9456712,
-      "lon": -40.5427816,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1948972966,
-      "lat": -5.213507,
-      "lon": -40.6020114,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1948973002,
-      "lat": -5.3978387,
-      "lon": -40.3111514,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "SP"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1948973006,
-      "lat": -5.4047168,
-      "lon": -40.3059388,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "SP"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1948973188,
-      "lat": -5.4369333,
-      "lon": -40.0012883,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1948973326,
-      "lat": -5.4571532,
-      "lon": -39.7060312,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "Shell"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1948973509,
-      "lat": -5.5222508,
-      "lon": -39.4920003,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "BR"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1948973536,
-      "lat": -5.5258105,
-      "lon": -39.5953836,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1952430428,
-      "lat": -5.1772144,
-      "lon": -40.6771158,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "SP"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1952430430,
-      "lat": -5.1852885,
-      "lon": -40.6492918,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "Ale"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1952430437,
-      "lat": -5.2326267,
-      "lon": -40.893781,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1952430742,
-      "lat": -5.3126844,
-      "lon": -41.0990564,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1952430770,
-      "lat": -5.3142039,
-      "lon": -41.0894913,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1952430998,
-      "lat": -5.3952021,
-      "lon": -40.3133971,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "BR"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1952449990,
-      "lat": -5.1688569,
-      "lon": -41.7069637,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1952475481,
-      "lat": -3.6607711,
-      "lon": -40.915379,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1952475516,
-      "lat": -3.7118231,
-      "lon": -40.9836922,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "BR"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1952475519,
-      "lat": -3.7243911,
-      "lon": -40.9975561,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1952475520,
-      "lat": -3.7274404,
-      "lon": -40.9992789,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "BR"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1952475523,
-      "lat": -3.7327516,
-      "lon": -41.0016183,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "BR"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1952475526,
-      "lat": -3.7448483,
-      "lon": -41.0090792,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "Ipiranga"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1952475586,
-      "lat": -3.93658,
-      "lon": -41.2587777,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1952475588,
-      "lat": -3.9404255,
-      "lon": -41.2646243,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1952475589,
-      "lat": -3.9430581,
-      "lon": -41.2652452,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1952475599,
-      "lat": -3.9985917,
-      "lon": -41.4360294,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1952482979,
-      "lat": -3.7097683,
-      "lon": -40.4170638,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "Shell"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1952482984,
-      "lat": -3.7479579,
-      "lon": -40.6915477,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1952482986,
-      "lat": -3.7497035,
-      "lon": -40.6960375,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1952482987,
-      "lat": -3.7527291,
-      "lon": -40.5142469,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "Shell"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1952482988,
-      "lat": -3.7556189,
-      "lon": -40.5560745,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "BR"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1976897400,
-      "lat": -7.0712741,
-      "lon": -37.284743,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Auto Posto Teixeira"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1985822649,
-      "lat": -7.0431748,
-      "lon": -37.2769842,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "Ello",
-        "name": "Posto Almeidão"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1997239571,
-      "lat": -7.1227727,
-      "lon": -37.6086379,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "Ello",
-        "name": "Posto São Sebastião"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1997239638,
-      "lat": -7.1316727,
-      "lon": -37.6084528,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Santa Júlia"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1998220387,
-      "lat": -4.8294609,
-      "lon": -42.1636665,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "BR"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2028024465,
-      "lat": -6.9274439,
-      "lon": -37.0960044,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2031313333,
-      "lat": -4.7485742,
-      "lon": -37.9648715,
-      "tags": {
-        "amenity": "fuel",
-        "fuel:1_25": "no",
-        "fuel:1_50": "no",
-        "fuel:GTL_diesel": "no",
-        "fuel:HGV_diesel": "no",
-        "fuel:biodiesel": "no",
-        "fuel:biogas": "no",
-        "fuel:cng": "no",
-        "fuel:diesel": "yes",
-        "fuel:e10": "no",
-        "fuel:e85": "no",
-        "fuel:electricity": "no",
-        "fuel:lpg": "no",
-        "fuel:octane_100": "no",
-        "fuel:octane_91": "no",
-        "fuel:octane_95": "no",
-        "fuel:octane_98": "no",
-        "name": "Posto 2000"
       }
     },
     {
@@ -1436,354 +123,11 @@ data = {
     },
     {
       "type": "node",
-      "id": 2071593123,
-      "lat": -7.2488722,
-      "lon": -35.8875632,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2071814590,
-      "lat": -7.2509918,
-      "lon": -35.8785377,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Sat"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2072370972,
-      "lat": -7.7350106,
-      "lon": -37.9769134,
-      "tags": {
-        "amenity": "fuel",
-        "fuel:biodiesel": "no",
-        "fuel:biogas": "no",
-        "fuel:cng": "no",
-        "fuel:diesel": "yes",
-        "fuel:electricity": "no",
-        "name": "Rí Combustiveis"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2073167510,
-      "lat": -7.2297873,
-      "lon": -35.8830444,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Dallas"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2073174406,
-      "lat": -7.227648,
-      "lon": -35.8861558,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto de Combustível Marília"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2073196828,
-      "lat": -7.2287772,
-      "lon": -35.8742556,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Brasília"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2073316166,
-      "lat": -7.2165732,
-      "lon": -35.8768807,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Texaco"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2073321285,
-      "lat": -7.2100176,
-      "lon": -35.875924,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Santa Ana"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2090408001,
-      "lat": -6.4424379,
-      "lon": -37.0910426,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2148036820,
-      "lat": -7.0833765,
-      "lon": -37.4341659,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2150436409,
-      "lat": -7.7440206,
-      "lon": -37.9965433,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Ideal"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2150436412,
-      "lat": -7.7469548,
-      "lon": -37.9995152,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto São Francisco"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2150436415,
-      "lat": -7.6427696,
-      "lon": -37.8743767,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2150436419,
-      "lat": -7.7368765,
-      "lon": -37.989591,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Santa Maria"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2150436423,
-      "lat": -7.738508,
-      "lon": -37.9944394,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Petrovia"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2150453186,
-      "lat": -7.6417142,
-      "lon": -37.8710964,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2152332424,
-      "lat": -7.7056834,
-      "lon": -38.1510589,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Santa Maria"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2156742932,
-      "lat": -7.8342368,
-      "lon": -38.105934,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2156743001,
-      "lat": -7.8425271,
-      "lon": -38.0956826,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2168908013,
-      "lat": -7.8587758,
-      "lon": -37.976165,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2168911432,
-      "lat": -7.8589697,
-      "lon": -37.9839649,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2168911437,
-      "lat": -7.8594879,
-      "lon": -37.9836699,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2249526881,
-      "lat": -6.9082564,
-      "lon": -37.5077321,
-      "tags": {
-        "addr:city": "Malta",
-        "addr:housenumber": "KM 365",
-        "addr:postcode": "58713000",
-        "addr:street": "BR 230",
-        "amenity": "fuel",
-        "brand": "Federal",
-        "name": "Auto Posto Zuzu",
-        "opening_hours": "24/7"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2283652513,
-      "lat": -7.4967534,
-      "lon": -38.9846553,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2340028991,
-      "lat": -6.4121512,
-      "lon": -36.7803355,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2340028992,
-      "lat": -6.4120712,
-      "lon": -36.7826315,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
       "id": 2353469596,
       "lat": -4.1787241,
       "lon": -38.1290789,
       "tags": {
         "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2371045826,
-      "lat": -8.6033274,
-      "lon": -38.5789475,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Auto Posto Compare"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2371045834,
-      "lat": -8.6067009,
-      "lon": -38.5816538,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Trevo"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2371049948,
-      "lat": -8.6082602,
-      "lon": -38.5646943,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Seis Irmãos"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2387851380,
-      "lat": -4.7710353,
-      "lon": -38.0517856,
-      "tags": {
-        "addr:housename": "Posto Ideal",
-        "amenity": "fuel",
-        "building": "yes",
-        "name": "Posto Ideal"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2450554102,
-      "lat": -8.981045,
-      "lon": -38.2161251,
-      "tags": {
-        "amenity": "fuel",
-        "building": "yes",
-        "name": "Rodrigás Combustiveis"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2454216671,
-      "lat": -8.9835049,
-      "lon": -38.2170204,
-      "tags": {
-        "amenity": "fuel",
-        "building": "yes"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2454216672,
-      "lat": -8.97836,
-      "lon": -38.2152792,
-      "tags": {
-        "amenity": "fuel",
-        "building": "yes",
-        "name": "Posto Ypiranga"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2454216673,
-      "lat": -8.9702323,
-      "lon": -38.2183482,
-      "tags": {
-        "amenity": "fuel",
-        "building": "yes",
-        "name": "Posto Rical"
       }
     },
     {
@@ -1800,159 +144,11 @@ data = {
     },
     {
       "type": "node",
-      "id": 2470167871,
-      "lat": -6.7704814,
-      "lon": -39.9834503,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2470167891,
-      "lat": -6.7750997,
-      "lon": -39.986601,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2471372467,
-      "lat": -2.8924652,
-      "lon": -41.9104212,
-      "tags": {
-        "amenity": "fuel",
-        "building": "yes",
-        "name": "Posto São Francisco"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2471372468,
-      "lat": -2.8915865,
-      "lon": -41.907739,
-      "tags": {
-        "amenity": "fuel",
-        "building": "yes",
-        "name": "Posto Vitória"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2482543406,
-      "lat": -5.3020388,
-      "lon": -38.9203704,
-      "tags": {
-        "amenity": "fuel",
-        "building": "yes",
-        "name": "Posto Banabuiú"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2482543919,
-      "lat": -5.3004163,
-      "lon": -38.9202725,
-      "tags": {
-        "amenity": "fuel",
-        "building": "yes",
-        "name": "SP Combustíveis"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2482550909,
-      "lat": -5.2966176,
-      "lon": -38.9210149,
-      "tags": {
-        "amenity": "fuel",
-        "building": "yes",
-        "name": "Posto Sertão"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2493075770,
-      "lat": -9.18008,
-      "lon": -38.2578801,
-      "tags": {
-        "amenity": "fuel",
-        "building": "yes"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2498818121,
-      "lat": -9.1298327,
-      "lon": -37.1162446,
-      "tags": {
-        "amenity": "fuel",
-        "building": "yes"
-      }
-    },
-    {
-      "type": "node",
       "id": 2555538623,
       "lat": -3.8385324,
       "lon": -38.5831578,
       "tags": {
         "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2559323077,
-      "lat": -7.1534071,
-      "lon": -36.1024216,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Auto Posto Farinha",
-        "opening_hours": "24/7"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2559323163,
-      "lat": -7.0571713,
-      "lon": -36.3656322,
-      "tags": {
-        "amenity": "fuel",
-        "opening_hours": "24/7"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2559323174,
-      "lat": -7.0604174,
-      "lon": -36.3553003,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Papa João Paulo II",
-        "opening_hours": "24/7",
-        "operator": "BR",
-        "surveillance": "yes"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2608148111,
-      "lat": -7.0692135,
-      "lon": -36.5745329,
-      "tags": {
-        "amenity": "fuel",
-        "opening_hours": "24/7",
-        "operator": "Petrobras"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2608148112,
-      "lat": -7.0692161,
-      "lon": -36.5791919,
-      "tags": {
-        "amenity": "fuel",
-        "opening_hours": "24/7"
       }
     },
     {
@@ -1966,436 +162,9 @@ data = {
     },
     {
       "type": "node",
-      "id": 2621156186,
-      "lat": -6.7875492,
-      "lon": -37.7950024,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Maringá"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2621156187,
-      "lat": -6.7895734,
-      "lon": -37.7902281,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Boa Esperança II"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2621156188,
-      "lat": -6.7712808,
-      "lon": -37.7979636,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2621156189,
-      "lat": -6.776139,
-      "lon": -37.798618,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Gavel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2621156190,
-      "lat": -6.8903271,
-      "lon": -37.7265685,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2624833654,
-      "lat": -7.2246568,
-      "lon": -37.2541256,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2633398143,
-      "lat": -4.9699195,
-      "lon": -39.0121454,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2633398144,
-      "lat": -4.9686695,
-      "lon": -39.011233,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2638478616,
-      "lat": -7.1813574,
-      "lon": -38.7818363,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2641071175,
-      "lat": -7.2027563,
-      "lon": -35.9519703,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Lagoão",
-        "operator": "BR"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2641071224,
-      "lat": -7.0578262,
-      "lon": -36.3596232,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto São José",
-        "opening_hours": "24/7"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2674092002,
-      "lat": -6.6415544,
-      "lon": -36.2503052,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2674148099,
-      "lat": -7.4079921,
-      "lon": -36.0252473,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2674201894,
-      "lat": -6.9944167,
-      "lon": -36.7124748,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2675035729,
-      "lat": -7.888996,
-      "lon": -37.1185524,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Ello"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2675035732,
-      "lat": -7.902013,
-      "lon": -37.125359,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Ello"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2675035836,
-      "lat": -7.889868,
-      "lon": -37.109974,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Bela Vista BR",
-        "opening_hours": "24/7",
-        "operator": "BR"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2675035903,
-      "lat": -7.903079,
-      "lon": -37.120743,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Auto Posto Amigão",
-        "operator": "Sat"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2682056316,
-      "lat": -7.3015093,
-      "lon": -38.8930767,
-      "tags": {
-        "amenity": "fuel",
-        "fuel:biodiesel": "yes",
-        "fuel:diesel": "yes",
-        "name": "Posto Ipiranga"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2682056317,
-      "lat": -7.3096305,
-      "lon": -38.9370009,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2682777275,
-      "lat": -7.3630776,
-      "lon": -35.9027672,
-      "tags": {
-        "amenity": "fuel",
-        "name": "BR",
-        "operator": "BR"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2684581144,
-      "lat": -7.1047821,
-      "lon": -35.866703,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2685161657,
-      "lat": -6.7690916,
-      "lon": -36.2475624,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2696507289,
-      "lat": -6.0487767,
-      "lon": -38.4607602,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto BR",
-        "operator": "Cristo Rei"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2696511844,
-      "lat": -6.0564664,
-      "lon": -38.4627719,
-      "tags": {
-        "addr:city": "Pereiro",
-        "addr:postcode": "63.460-000",
-        "addr:street": "Vila Nova",
-        "amenity": "fuel",
-        "name": "Posto Ale, Lagoa Nova"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2697149075,
-      "lat": -7.5226431,
-      "lon": -35.9996796,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto de Combustivel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2697149076,
-      "lat": -7.5236228,
-      "lon": -35.9923781,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2699222246,
-      "lat": -7.4878189,
-      "lon": -38.984008,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2734278975,
-      "lat": -7.2722599,
-      "lon": -36.2438468,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Ipiranga",
-        "operator": "Ipiranga"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2741306518,
-      "lat": -7.3077578,
-      "lon": -38.5112021,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2741306519,
-      "lat": -7.3143044,
-      "lon": -38.5142212,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2752343472,
-      "lat": -4.2248398,
-      "lon": -38.9204801,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "BP",
-        "fuel:GTL_diesel": "yes",
-        "fuel:biodiesel": "yes",
-        "fuel:diesel": "yes",
-        "fuel:e10": "yes",
-        "fuel:e85": "yes",
-        "name": "BR-Pacoti;Posto Pacoty",
-        "opening_hours": "Sa-Su 07:00-20:00",
-        "operator": "BR",
-        "shop": "convenience"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2763880179,
-      "lat": -6.1982875,
-      "lon": -42.1346713,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
       "id": 2764453395,
       "lat": -3.7466337,
       "lon": -38.4801991,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2776377988,
-      "lat": -9.1559701,
-      "lon": -36.0348745,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2816811358,
-      "lat": -8.4271219,
-      "lon": -37.0694267,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2823601558,
-      "lat": -8.3623919,
-      "lon": -37.2705368,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2841691821,
-      "lat": -4.3180732,
-      "lon": -37.9961943,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Pai Tereza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2873898755,
-      "lat": -6.9043882,
-      "lon": -37.5199219,
-      "tags": {
-        "shop": "bicycle"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2878346360,
-      "lat": -6.7883829,
-      "lon": -38.7281168,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2878346361,
-      "lat": -6.7891753,
-      "lon": -38.719749,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2880283985,
-      "lat": -3.6917461,
-      "lon": -40.3521415,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2885380529,
-      "lat": -5.8103509,
-      "lon": -38.3065697,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Riachuelo"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2983631745,
-      "lat": -9.0378988,
-      "lon": -36.0376857,
       "tags": {
         "amenity": "fuel"
       }
@@ -2412,536 +181,12 @@ data = {
     },
     {
       "type": "node",
-      "id": 3009221933,
-      "lat": -8.0675193,
-      "lon": -39.1342363,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3015414232,
-      "lat": -9.1184125,
-      "lon": -37.5989369,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3019454936,
-      "lat": -7.8721263,
-      "lon": -40.0931531,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3019457434,
-      "lat": -7.8742453,
-      "lon": -40.0854341,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3036378034,
-      "lat": -2.9265578,
-      "lon": -40.8554263,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3036380033,
-      "lat": -3.0462072,
-      "lon": -40.6902217,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3036552147,
-      "lat": -6.4041785,
-      "lon": -38.8445905,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3036555542,
-      "lat": -6.4189505,
-      "lon": -38.8613177,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3036653839,
-      "lat": -5.1521549,
-      "lon": -36.5954685,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3037867060,
-      "lat": -8.5140603,
-      "lon": -41.0088607,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3041735636,
-      "lat": -8.0527329,
-      "lon": -37.8319433,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3042581536,
-      "lat": -8.9941692,
-      "lon": -40.27138,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3044842155,
-      "lat": -5.2180643,
-      "lon": -37.4997815,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3124554422,
-      "lat": -5.0640262,
-      "lon": -36.0417518,
-      "tags": {
-        "addr:city": "São Bento do Norte",
-        "addr:street": "Rua Nova;RN-120",
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3124554425,
-      "lat": -5.0632769,
-      "lon": -36.0437339,
-      "tags": {
-        "addr:city": "São Bento do Norte",
-        "addr:street": "Rua Irmã Aloíza",
-        "amenity": "fuel",
-        "name": "Ipiranga"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3193573647,
-      "lat": -2.9205415,
-      "lon": -41.7254084,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Evandro"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3207500139,
-      "lat": -8.0876607,
-      "lon": -37.6340017,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto BR",
-        "note": "Posto Macambira"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3207544738,
-      "lat": -8.0890398,
-      "lon": -37.6294384,
-      "tags": {
-        "addr:city": "Custódia - PE",
-        "addr:postcode": "56640-000",
-        "addr:street": "BR-232",
-        "addr:suburb": "Pindoba",
-        "amenity": "fuel",
-        "name": "Posto Shell",
-        "note": "Posto Custódia"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3214247254,
-      "lat": -8.0867379,
-      "lon": -37.6396778,
-      "tags": {
-        "addr:city": "Custódia",
-        "addr:postcode": "56640-000",
-        "addr:street": "Avenida Gerson Gonçalves (BR-232)",
-        "amenity": "fuel",
-        "name": "Posto DISLUB",
-        "note": "Posto Tamboriu"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3280887141,
-      "lat": -8.6121363,
-      "lon": -39.602103,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3280887142,
-      "lat": -8.6144496,
-      "lon": -39.6041992,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3343087552,
-      "lat": -7.6561798,
-      "lon": -41.8788769,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Caninde"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3375049971,
-      "lat": -8.3444354,
-      "lon": -36.4272037,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "BR",
-        "name": "Posto BR",
-        "operator": "Petrobras"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3384263449,
-      "lat": -4.273708,
-      "lon": -41.7779952,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3395168513,
-      "lat": -2.9006101,
-      "lon": -41.7295388,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3493764653,
-      "lat": -8.3452357,
-      "lon": -36.434454,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "Ipiranga",
-        "name": "Ipiranga"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3503457280,
-      "lat": -5.1703186,
-      "lon": -37.3568461,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3503457291,
-      "lat": -5.16995,
-      "lon": -37.3564838,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3662136513,
-      "lat": -7.2329831,
-      "lon": -35.8706326,
-      "tags": {
-        "addr:street": "Avenida Prefeito Severino Cabral",
-        "amenity": "fuel",
-        "name": "Posto Ipiranga",
-        "operator": "Posto Santa Júlia"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3696197547,
-      "lat": -6.6638066,
-      "lon": -37.3954827,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Abandonado"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3696197548,
-      "lat": -6.6429444,
-      "lon": -37.3697956,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto JM"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3699150326,
-      "lat": -4.814775,
-      "lon": -38.8202329,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Serra Azul"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3699170836,
-      "lat": -4.786565,
-      "lon": -38.787298,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto São Paulo"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3707465067,
-      "lat": -5.1961299,
-      "lon": -37.3444042,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3707465190,
-      "lat": -5.1933519,
-      "lon": -37.349125,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
       "id": 3717065214,
       "lat": -3.7459898,
       "lon": -38.5735138,
       "tags": {
         "amenity": "bicycle_parking",
         "name": "Bicicletário da Geografia"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3803320640,
-      "lat": -8.9789551,
-      "lon": -39.1033369,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3803322658,
-      "lat": -8.9785786,
-      "lon": -39.1035729,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3808877439,
-      "lat": -3.6679265,
-      "lon": -38.9799272,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3808877440,
-      "lat": -3.6750838,
-      "lon": -39.3361405,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3808889177,
-      "lat": -7.8237428,
-      "lon": -39.0881609,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3808889671,
-      "lat": -7.8274304,
-      "lon": -39.0871635,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3808889872,
-      "lat": -7.8294725,
-      "lon": -39.086799,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3808919478,
-      "lat": -4.5057688,
-      "lon": -38.3588283,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3812412836,
-      "lat": -8.7226686,
-      "lon": -39.1149588,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3813132685,
-      "lat": -8.8726137,
-      "lon": -36.2010225,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3813132691,
-      "lat": -8.9181099,
-      "lon": -36.7104242,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3813133048,
-      "lat": -8.6584753,
-      "lon": -36.332159,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3813133049,
-      "lat": -8.6587923,
-      "lon": -36.3296608,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3813133050,
-      "lat": -8.659186,
-      "lon": -36.3312505,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3813133051,
-      "lat": -8.6615574,
-      "lon": -36.341948,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3818594578,
-      "lat": -4.0994253,
-      "lon": -39.0580093,
-      "tags": {
-        "amenity": "fuel",
-        "name": "BR-Noronha",
-        "operator": "BR"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3818594579,
-      "lat": -4.2325555,
-      "lon": -39.199224,
-      "tags": {
-        "amenity": "fuel",
-        "name": "BR-Ponciano",
-        "operator": "BR"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3818594868,
-      "lat": -4.1799953,
-      "lon": -39.1689934,
-      "tags": {
-        "amenity": "fuel",
-        "name": "SP Posto Marajó"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3818594869,
-      "lat": -4.0993603,
-      "lon": -39.0571213,
-      "tags": {
-        "amenity": "fuel",
-        "name": "SP-Combustível"
       }
     },
     {
@@ -2967,15 +212,6 @@ data = {
       "id": 3830141541,
       "lat": -3.7756534,
       "lon": -38.6074585,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3831541683,
-      "lat": -8.3363096,
-      "lon": -36.4242106,
       "tags": {
         "amenity": "fuel"
       }
@@ -3557,8 +793,8 @@ data = {
     {
       "type": "node",
       "id": 3833597256,
-      "lat": -3.7314433,
-      "lon": -38.5427068,
+      "lat": -3.7318223,
+      "lon": -38.5432187,
       "tags": {
         "amenity": "bicycle_rental",
         "capacity": "12",
@@ -3613,8 +849,8 @@ data = {
     {
       "type": "node",
       "id": 3833597260,
-      "lat": -3.7403203,
-      "lon": -38.498687,
+      "lat": -3.7385783,
+      "lon": -38.4981618,
       "tags": {
         "amenity": "bicycle_rental",
         "capacity": "12",
@@ -3794,54 +1030,9 @@ data = {
     },
     {
       "type": "node",
-      "id": 3835727388,
-      "lat": -8.3309786,
-      "lon": -36.1424827,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3835780307,
-      "lat": -8.3335047,
-      "lon": -36.1303737,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3835780329,
-      "lat": -8.3345027,
-      "lon": -36.1365187,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
       "id": 3836270775,
       "lat": -3.9750978,
       "lon": -38.7077791,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3836499539,
-      "lat": -8.4905458,
-      "lon": -36.2342936,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3836499569,
-      "lat": -8.4933139,
-      "lon": -36.2375557,
       "tags": {
         "amenity": "fuel"
       }
@@ -3882,35 +1073,6 @@ data = {
     },
     {
       "type": "node",
-      "id": 3837420191,
-      "lat": -7.026688,
-      "lon": -37.2774537,
-      "tags": {
-        "amenity": "bicycle_parking",
-        "covered": "no"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3837420192,
-      "lat": -7.0263602,
-      "lon": -37.2768267,
-      "tags": {
-        "amenity": "bicycle_parking",
-        "covered": "no"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3837857706,
-      "lat": -4.306524,
-      "lon": -38.9964766,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
       "id": 3838213748,
       "lat": -4.1244311,
       "lon": -38.4863383,
@@ -3937,37 +1099,6 @@ data = {
         "amenity": "fuel",
         "brand": "Shell",
         "shop": "convenience"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3855767060,
-      "lat": -8.26699,
-      "lon": -35.9780803,
-      "tags": {
-        "amenity": "fuel",
-        "fuel:diesel": "yes",
-        "fuel:e10": "yes",
-        "name": "Posto BR"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3855774257,
-      "lat": -8.2928848,
-      "lon": -35.9738424,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3864101958,
-      "lat": -6.8866317,
-      "lon": -37.7323079,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Dantas"
       }
     },
     {
@@ -4042,78 +1173,11 @@ data = {
     },
     {
       "type": "node",
-      "id": 3886657487,
-      "lat": -4.5509737,
-      "lon": -38.5935007,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3886657488,
-      "lat": -4.6937021,
-      "lon": -38.6976517,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3914568523,
-      "lat": -4.9684258,
-      "lon": -39.0124933,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3914582044,
-      "lat": -4.965218,
-      "lon": -39.0003451,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
       "id": 3914647483,
       "lat": -4.0164853,
       "lon": -38.8553801,
       "tags": {
         "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3916555166,
-      "lat": -4.9724063,
-      "lon": -39.0162142,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3921249067,
-      "lat": -6.895747,
-      "lon": -36.8814989,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Santo Antônio",
-        "opening_hours": "24/7",
-        "wheelchair": "yes"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3925790876,
-      "lat": -3.297143,
-      "lon": -39.2673447,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto BR"
       }
     },
     {
@@ -4271,33 +1335,11 @@ data = {
     },
     {
       "type": "node",
-      "id": 3949084481,
-      "lat": -3.9436999,
-      "lon": -39.4285507,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto de Gasolina"
-      }
-    },
-    {
-      "type": "node",
       "id": 3956080165,
       "lat": -3.7775042,
       "lon": -38.5620147,
       "tags": {
         "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3964638805,
-      "lat": -6.7861792,
-      "lon": -38.0733537,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Auto Posto Agagenor III",
-        "opening_hours": "24/7",
-        "operator": "Fan"
       }
     },
     {
@@ -4344,24 +1386,6 @@ data = {
     },
     {
       "type": "node",
-      "id": 3981110958,
-      "lat": -7.7624342,
-      "lon": -38.9409372,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3983337599,
-      "lat": -7.6062899,
-      "lon": -37.5431661,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
       "id": 3984550034,
       "lat": -3.8672836,
       "lon": -38.4684733,
@@ -4387,76 +1411,6 @@ data = {
       "lon": -38.5010844,
       "tags": {
         "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3987135088,
-      "lat": -7.6039047,
-      "lon": -36.8142022,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3993502019,
-      "lat": -7.7847364,
-      "lon": -39.9401026,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4010273989,
-      "lat": -6.3495215,
-      "lon": -37.7464359,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto São Sebastião",
-        "opening_hours": "24/7",
-        "operator": "BR",
-        "surveillance": "public"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4030082509,
-      "lat": -8.0296822,
-      "lon": -36.0538883,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4035653144,
-      "lat": -5.6263624,
-      "lon": -36.8723569,
-      "tags": {
-        "amenity": "fuel",
-        "name": "BR"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4042057251,
-      "lat": -3.5917985,
-      "lon": -40.5478398,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Nosso Posto São José"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4042057804,
-      "lat": -3.586311,
-      "lon": -40.5427734,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto de combustível"
       }
     },
     {
@@ -4500,109 +1454,6 @@ data = {
     },
     {
       "type": "node",
-      "id": 4072088262,
-      "lat": -2.8822255,
-      "lon": -41.6655681,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Francisco & Filho"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4085743741,
-      "lat": -4.2675765,
-      "lon": -38.0555347,
-      "tags": {
-        "addr:city": "Beberibe",
-        "addr:housenumber": "Km 88",
-        "addr:postcode": "62842-000",
-        "addr:street": "CE-040",
-        "addr:suburb": "Sucatinga",
-        "amenity": "fuel",
-        "name": "Posto Marambaia",
-        "opening_hours": "6:00 - 21:00",
-        "operator": "SP"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4089150958,
-      "lat": -6.5892255,
-      "lon": -37.9132591,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4089150962,
-      "lat": -6.5895133,
-      "lon": -37.9090293,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4135920479,
-      "lat": -6.133733,
-      "lon": -39.8760936,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4135920492,
-      "lat": -6.1340544,
-      "lon": -39.8803596,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4187838498,
-      "lat": -6.6763953,
-      "lon": -36.4149295,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto de Combustíveis J. Ferreira"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4187838698,
-      "lat": -6.684675,
-      "lon": -36.4191701,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto de Combustível Palmeirense"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4187858331,
-      "lat": -6.7560517,
-      "lon": -36.4630115,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Nossa Senhora Aparecida"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4187858332,
-      "lat": -6.7540487,
-      "lon": -36.4711359,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto de Combustível Pedra Lavrada"
-      }
-    },
-    {
-      "type": "node",
       "id": 4193449878,
       "lat": -3.7315395,
       "lon": -38.4851113,
@@ -4614,15 +1465,6 @@ data = {
         "name": "Sport & Bike",
         "operator": "Gilberto",
         "shop": "bicycle"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4195624675,
-      "lat": -3.5654035,
-      "lon": -39.9703056,
-      "tags": {
-        "amenity": "fuel"
       }
     },
     {
@@ -4665,228 +1507,6 @@ data = {
         "covered": "no",
         "name": "Parque Pajeú",
         "source": "survey"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4207891782,
-      "lat": -8.6252824,
-      "lon": -37.1626253,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Santos",
-        "operator": "BR"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4207892096,
-      "lat": -8.6223873,
-      "lon": -37.1555895,
-      "tags": {
-        "amenity": "fuel",
-        "operator": "ALE"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4208162476,
-      "lat": -7.6756025,
-      "lon": -37.4575158,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4208908231,
-      "lat": -8.6192718,
-      "lon": -37.1560563,
-      "tags": {
-        "amenity": "fuel",
-        "name": "São Felix",
-        "operator": "BR"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4208957208,
-      "lat": -8.4971069,
-      "lon": -36.9398276,
-      "tags": {
-        "amenity": "fuel",
-        "operator": "ALE"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4208997981,
-      "lat": -8.7489202,
-      "lon": -37.3459511,
-      "tags": {
-        "amenity": "fuel",
-        "operator": "Setta"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4208997983,
-      "lat": -8.9394203,
-      "lon": -37.4148641,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Pais e Filhos"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4208997984,
-      "lat": -9.1132593,
-      "lon": -37.1214312,
-      "tags": {
-        "amenity": "fuel",
-        "operator": "Texaco"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4208997986,
-      "lat": -9.1134737,
-      "lon": -37.1199619,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Santa Rosa"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4208997987,
-      "lat": -9.11476,
-      "lon": -37.1177833,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto do Mestre"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4211237732,
-      "lat": -8.0649817,
-      "lon": -39.1196263,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Padre Cicero"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4212847282,
-      "lat": -6.237333,
-      "lon": -36.0078424,
-      "tags": {
-        "amenity": "fuel",
-        "name": "BR"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4214453976,
-      "lat": -4.0437317,
-      "lon": -40.8657251,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "Texaco"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4214454606,
-      "lat": -4.0583146,
-      "lon": -40.8638891,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4215463246,
-      "lat": -3.7602303,
-      "lon": -40.8158785,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto de gasolina"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4219095327,
-      "lat": -8.0672381,
-      "lon": -39.1356054,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Via Oeste",
-        "operator": "Shell"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4224371851,
-      "lat": -8.062336,
-      "lon": -39.1238086,
-      "tags": {
-        "amenity": "fuel",
-        "name": "BR"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4224393369,
-      "lat": -7.9815765,
-      "lon": -38.305206,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4224393370,
-      "lat": -7.9815636,
-      "lon": -38.2893433,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Rodrigão"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4224393371,
-      "lat": -7.9824205,
-      "lon": -38.2849191,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Alto Santo",
-        "operator": "Dislub"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4224393372,
-      "lat": -7.9829122,
-      "lon": -38.2865067,
-      "tags": {
-        "amenity": "fuel",
-        "name": "BR",
-        "operator": "BR"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4224393373,
-      "lat": -7.9849017,
-      "lon": -38.2768985,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto 411"
       }
     },
     {
@@ -5241,15 +1861,6 @@ data = {
     },
     {
       "type": "node",
-      "id": 4226112124,
-      "lat": -5.9211656,
-      "lon": -39.2658749,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
       "id": 4228511568,
       "lat": -3.77671,
       "lon": -38.5634326,
@@ -5445,8 +2056,11 @@ data = {
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "shed",
+        "capacity": "38",
         "covered": "yes",
+        "maxstay": "48h",
         "name": "Terminal Siqueira",
+        "opening_hours": "04:00-22:00",
         "operator": "Prefeitura Municipal de Fortaleza"
       }
     },
@@ -5500,16 +2114,6 @@ data = {
     },
     {
       "type": "node",
-      "id": 4242567093,
-      "lat": -3.2269271,
-      "lon": -40.1223886,
-      "tags": {
-        "amenity": "fuel",
-        "opening_hours": "24 Horas"
-      }
-    },
-    {
-      "type": "node",
       "id": 4243040829,
       "lat": -3.7555065,
       "lon": -38.5081045,
@@ -5521,6 +2125,378 @@ data = {
         "name": "Ciclomar Peças",
         "phone": "+55 85 3272-3746",
         "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4243856721,
+      "lat": -3.7484786,
+      "lon": -38.5032416,
+      "tags": {
+        "access": "customers",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "4",
+        "covered": "no",
+        "name": "Casa de Moá"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4248789526,
+      "lat": -3.7835238,
+      "lon": -38.4819466,
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "12",
+        "covered": "yes",
+        "name": "Reserva Open Mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4249267646,
+      "lat": -3.7416697,
+      "lon": -38.4959277,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "850",
+        "addr:street": "Avenida Padre Antônio Tomás",
+        "addr:suburb": "Aldeota",
+        "name": "Barcellos Sports Fortaleza",
+        "phone": "+55 85 3268-3782",
+        "shop": "bicycle",
+        "website": "http://www.barcellossportsfortaleza.com.br/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4249275542,
+      "lat": -3.7325823,
+      "lon": -38.5044595,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "2155 - loja 3",
+        "addr:street": "Rua Costa Barros",
+        "addr:suburb": "Aldeota",
+        "name": "Casa do Ciclista",
+        "phone": "+55 85 3224-7194",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4249278631,
+      "lat": -3.7296935,
+      "lon": -38.5090588,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "1554",
+        "addr:street": "Rua Pereira Filgueiras",
+        "addr:suburb": "Aldeota",
+        "name": "João Ciclo",
+        "phone": "+55 85 3248-8304",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4249504990,
+      "lat": -3.7446812,
+      "lon": -38.4960856,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "848",
+        "addr:street": "Rua General Tertuliano Potiguara",
+        "addr:suburb": "Aldeota",
+        "name": "Clara Peças",
+        "phone": "+55 85 98631-2397",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4249508130,
+      "lat": -3.7443452,
+      "lon": -38.5214528,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "81",
+        "addr:street": "Rua Pinho Pessoa",
+        "addr:suburb": "Joaquim Távora",
+        "name": "Amiguinho",
+        "phone": "+55 85 3252-4442",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4254609507,
+      "lat": -3.7461099,
+      "lon": -38.4890114,
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "12",
+        "covered": "no",
+        "name": "Bicicletário Mercadinhos São Luiz"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4262975299,
+      "lat": -3.7510909,
+      "lon": -38.4700884,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "195",
+        "addr:street": "Alameda Santa Mará",
+        "addr:suburb": "Cidade 2000",
+        "name": "Ciclo Adventure Fortaleza",
+        "phone": "+55 85 3249-3636",
+        "shop": "bicycle",
+        "website": "http://cicloadventurefortaleza.com.br/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4263187386,
+      "lat": -3.7765686,
+      "lon": -38.5873737,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "235",
+        "addr:street": "Rua Anselmo Nogueira",
+        "addr:suburb": "Bonsucesso",
+        "name": "Sinal Verde para o Ciclista - loja 2",
+        "phone": "+55 85 3290-1280",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4263187387,
+      "lat": -3.7766424,
+      "lon": -38.5875885,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "270",
+        "addr:street": "Rua Anselmo Nogueira",
+        "addr:suburb": "Bonsucesso",
+        "name": "Ciclovias Cordeiro",
+        "phone": "+55 85 3233-2273 / 98828-9918",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4263192253,
+      "lat": -3.7672159,
+      "lon": -38.5843928,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "400",
+        "addr:street": "Avenida Porto Velho",
+        "addr:suburb": "Henrique Jorge",
+        "name": "Bazar dos Ciclistas",
+        "phone": "+55 \t 85 3290-6402",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4263195494,
+      "lat": -3.7637951,
+      "lon": -38.5793818,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "731",
+        "addr:street": "Avenida Senador Fernandes Távora",
+        "addr:suburb": "Jóquei Clube",
+        "name": "Maia Ciclo",
+        "phone": "+55 85 3484-4873 / 98834-6761",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4263211045,
+      "lat": -3.7755995,
+      "lon": -38.5648928,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "124",
+        "addr:street": "Avenida Cônego de Castro",
+        "addr:suburb": "Parangaba",
+        "name": "Crisciclo",
+        "phone": "+55 85 3224-2828",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4263211046,
+      "lat": -3.775742,
+      "lon": -38.5644922,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "137",
+        "addr:street": "Rua Eduardo Perdigão",
+        "addr:suburb": "Parangaba",
+        "name": "CicloDias",
+        "phone": "+55 85 3225-6228",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4263222550,
+      "lat": -3.7515027,
+      "lon": -38.5674404,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "282",
+        "addr:street": "Rua Espírito Santo",
+        "addr:suburb": "Panamericano",
+        "name": "UTI das Bicicletas",
+        "phone": "+55 85 3482-8536 / 98726-9754",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4263231431,
+      "lat": -3.7452956,
+      "lon": -38.5610346,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "954",
+        "addr:street": "Rua Érico Mota",
+        "addr:suburb": "Amadeu Furtado",
+        "name": "JA Ciclo",
+        "phone": "+55 85 98791-4615",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4263251919,
+      "lat": -3.7470056,
+      "lon": -38.5568462,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "1182",
+        "addr:street": "Rua Francisca Clotilde",
+        "addr:suburb": "Rodolfo Teófilo",
+        "name": "Falcão Ciclo",
+        "phone": "+55 85 98781-9590",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4270037929,
+      "lat": -3.7686729,
+      "lon": -38.4811028,
+      "tags": {
+        "access": "permissive",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "12",
+        "covered": "no",
+        "name": "Unifor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4270037930,
+      "lat": -3.7698381,
+      "lon": -38.4817162,
+      "tags": {
+        "access": "permissive",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "12",
+        "covered": "no",
+        "name": "Unifor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4270037931,
+      "lat": -3.7712023,
+      "lon": -38.4807652,
+      "tags": {
+        "access": "permissive",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "12",
+        "covered": "no",
+        "name": "Unifor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4296832690,
+      "lat": -3.7370288,
+      "lon": -38.496973,
+      "tags": {
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "3130",
+        "addr:street": "Avenida Santos Dumont",
+        "addr:suburb": "Aldeota",
+        "name": "Urbana Bike Shop",
+        "phone": "+55 85 3224-9205 / 98811-6906",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4300576596,
+      "lat": -3.7387131,
+      "lon": -38.4850521,
+      "tags": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "shed",
+        "covered": "yes",
+        "maxstay": "48h",
+        "name": "Terminal Papicu",
+        "note": "conferir a localização exata, inseri neste local apenas para guardar os dados",
+        "opening_hours": "04:00-22:00",
+        "operator": "Prefeitura Municipal de Fortaleza"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4309962485,
+      "lat": -3.7357247,
+      "lon": -38.4968376,
+      "tags": {
+        "access": "permissive",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "covered": "no",
+        "name": "Bicicletário Del Paseo",
+        "note": "conferir capacidade (n. de vagas)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4313207578,
+      "lat": -3.7728115,
+      "lon": -38.6079985,
+      "tags": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "shed",
+        "capacity": "40",
+        "covered": "yes",
+        "maxstay": "48h",
+        "name": "Terminal Conjunto Ceará",
+        "opening_hours": "4:00-22:00",
+        "operator": "Prefeitura Municipal de Fortaleza"
       }
     }
   ]
