@@ -2,2502 +2,3660 @@
   "version": 0.6,
   "generator": "Overpass API",
   "osm3s": {
-    "timestamp_osm_base": "2016-07-21T18:49:02Z",
+    "timestamp_osm_base": "2017-08-22T22:10:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
-    {
-      "type": "node",
-      "id": 616060551,
-      "lat": -3.7244893,
-      "lon": -38.5511886,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 616060554,
-      "lat": -3.7200783,
-      "lon": -38.5497938,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 619250208,
-      "lat": -3.735018,
-      "lon": -38.5025815,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 623200427,
-      "lat": -3.7304251,
-      "lon": -38.5167255,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 988327130,
-      "lat": -3.6350068,
-      "lon": -38.7126628,
-      "tags": {
-        "amenity": "fuel",
-        "shop": "yes"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1617987772,
-      "lat": -3.7349138,
-      "lon": -38.492918,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Eco"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1618395558,
-      "lat": -3.7398356,
-      "lon": -38.4867612,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1620510525,
-      "lat": -3.7712708,
-      "lon": -38.4823501,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Esso"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1620567957,
-      "lat": -3.7888492,
-      "lon": -38.4707522,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto SP"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1947457013,
-      "lat": -3.7459299,
-      "lon": -38.5434474,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "Shell",
-        "name": "Posto Shel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2032109823,
-      "lat": -3.711858,
-      "lon": -38.5730626,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2052022506,
-      "lat": -3.8208107,
-      "lon": -38.5576088,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Itapery"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2353469596,
-      "lat": -4.1787241,
-      "lon": -38.1290789,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2458353078,
-      "lat": -3.7467599,
-      "lon": -38.4897275,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "BR",
-        "building": "yes",
-        "operator": "Petrobras"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2555538623,
-      "lat": -3.8385324,
-      "lon": -38.5831578,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2613644454,
-      "lat": -3.7523808,
-      "lon": -38.5532314,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 2764453395,
-      "lat": -3.7466337,
-      "lon": -38.4801991,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3008905381,
-      "lat": -3.7520853,
-      "lon": -38.5099062,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "BR"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3717065214,
-      "lat": -3.7459898,
-      "lon": -38.5735138,
-      "tags": {
-        "amenity": "bicycle_parking",
-        "name": "Bicicletário da Geografia"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3830141492,
-      "lat": -3.7653263,
-      "lon": -38.5769028,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3830141497,
-      "lat": -3.754753,
-      "lon": -38.6015072,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3830141541,
-      "lat": -3.7756534,
-      "lon": -38.6074585,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597215,
-      "lat": -3.7308997,
-      "lon": -38.491505,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Rua Ana Bilhar 1001 (Loja Terra Brasilis) / Esquina Avenida Senador Virgílio Távora",
-        "name": "Ana Bilhar",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597216,
-      "lat": -3.7511158,
-      "lon": -38.502065,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Rua Barbosa de Freitas em frente a Assembléia Legislativa (Edificio Senador César Cals) / Esquina Avenida Pontes VieiraAssembléia Legislativa",
-        "name": "Assembleia Legislativa",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597217,
-      "lat": -3.7201971,
-      "lon": -38.511546,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Avenida Beira Mar 916 (Loja Sorvetão) / Esquina Rua João CordeiroSorvetão",
-        "name": "Aterrinho da Praia de Iracema",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597218,
-      "lat": -3.7233324,
-      "lon": -38.5052358,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Rua Rui Barbosa 1680 (Boteco da Praia) / Esquina Avenida Beira MarBoteco da Praia",
-        "name": "Aterro Praia de Iracema",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597219,
-      "lat": -3.7386763,
-      "lon": -38.4916609,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Avenida Santos Dumont oposto ao BNB Clube / Esquina Rua Coronel JucáBNB Clube",
-        "name": "BNB Clube",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597220,
-      "lat": -3.7257252,
-      "lon": -38.525549,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Avenida Conde D´Eu em frente ao Centro Cultural BNB / Esquina Rua Senador Almir PintoCatedral",
-        "name": "BNB Cultural Catedral",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597221,
-      "lat": -3.7483832,
-      "lon": -38.53024,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Rua Padre Barbosa de Jesus oposto ao número 1345 / Esquina com a Avenida 13 de Maio",
-        "name": "Banco do Brasil - 13 de Maio",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597222,
-      "lat": -3.7302816,
-      "lon": -38.502894,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Rua José Vilar 540 / Esquina Rua Tenente Benévolo",
-        "name": "Campo do América",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597223,
-      "lat": -3.738618,
-      "lon": -38.569411,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "14",
-        "description": "Rua Acesso Público próximo à entrada da UFC / Esquina com a Avenida Humberto MonteUFC",
-        "name": "Campos do Pici - UFC",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597224,
-      "lat": -3.7489708,
-      "lon": -38.553127,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "14",
-        "description": "Rua Coronel Nunes de Melo 1315 (UFC) / Esquina Rua Professor Costa Mendes",
-        "name": "Campus Porangabuçu - UFC",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597225,
-      "lat": -3.7431306,
-      "lon": -38.509695,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Av. Antonio Sales em frente ao Carrefour / Esquina Avenida Barão de StudartCarrefour",
-        "name": "Carrefour",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597226,
-      "lat": -3.7588242,
-      "lon": -38.543794,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Rua Afrodísio Gondim 622 (Sanduíches Bebelu) / Esquina Avenida Professor Gomes de Matos",
-        "name": "Casa Freitas Montese",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597227,
-      "lat": -3.7506302,
-      "lon": -38.531948,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Rua Ministro Joaquim Bastos em frente ao Centro de Humanidade / Esquina Rua Monsenhor Liberato",
-        "name": "Centro de Humanidades - UECE",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597228,
-      "lat": -3.7553085,
-      "lon": -38.546358,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Rua Frei Orlando 684 / EsquinaRua Costa Mendes",
-        "name": "Costa Mendes",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597229,
-      "lat": -3.730343,
-      "lon": -38.496304,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Rua Canuto de Aguiar 712B / Esquina Rua Desembargador Moreira",
-        "name": "Círculo Militar",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597230,
-      "lat": -3.7217398,
-      "lon": -38.519359,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Rua Dragão do Mar em frente ao Centro Dragão do Mar / Esquina Rua Almirante JaceguaiDragão do Mar",
-        "name": "Dragão do Mar",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597231,
-      "lat": -3.7627653,
-      "lon": -38.5468991,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Avenida Professor Gomes de Matos 1157 / Esquina Rua Sátiro Dias",
-        "name": "Esplanada Montese",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597232,
-      "lat": -3.7487194,
-      "lon": -38.524259,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Rua Coronel Pergentino / Esquina Avenida Aguanambi",
-        "name": "Extra Aguanambi",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597233,
-      "lat": -3.742715,
-      "lon": -38.501572,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Rua Visconde de Mauá em frente ao FIC Aldeota / Esquina Rua General Tertuliano PotiguaraFIC Aldeota",
-        "name": "FIC Aldeota",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597234,
-      "lat": -3.7249075,
-      "lon": -38.551085,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "14",
-        "description": "Rua Padre Anchieta em frente ao Supermercado Frangolândia / Esquina Avenida Sargento Hermínio SampaioSupermercado Frangolândia",
-        "name": "Frangolândia Sgt. Hermínio",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597235,
-      "lat": -3.7359524,
-      "lon": -38.488797,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Rua Dom Luís 1400B / Esquina Rua Frei Mansueto",
-        "name": "Frei Mansueto",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597236,
-      "lat": -3.7490591,
-      "lon": -38.550532,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Rua Alexandre Baraúna 773 / Esquina Rua Capitão Francisco Pedro",
-        "name": "HEMOCE",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597237,
-      "lat": -3.7410188,
-      "lon": -38.560732,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Rua Professor Lino Encarnação em frente à Paróquia de Santo Afonso – Igreja Redonda / Esquina Avenida Jovita FeitosaIgreja Redonda",
-        "name": "Igreja Redonda",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597238,
-      "lat": -3.7526006,
-      "lon": -38.525206,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Rua Dom Sebastião Leme em frente à Praça Nossa Senhora de Fátima / Esquina Avenida 13 de Maio",
-        "name": "Igreja de Fátima",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597239,
-      "lat": -3.7565373,
-      "lon": -38.540685,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Rua Padre José Piamarta 128 / Esquina Rua André Chaves",
-        "name": "Igreja de Nazaré",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597240,
-      "lat": -3.7331071,
-      "lon": -38.551978,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Canteiro Central da Avenida Bezerra de Menezes 801 / Esquina Rua Padre AnchietaInstituto dos Cegos",
-        "name": "Instituto dos Cegos",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597241,
-      "lat": -3.7321014,
-      "lon": -38.500273,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Rua Joaquim Nabuco 730 / Esquina Rua Dom Luís",
-        "name": "Joaquim Nabuco",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597242,
-      "lat": -3.7393517,
-      "lon": -38.524917,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Avenida Aguanambi 282 (Jornal O Povo) / Esquina Avenida Domingos Olímpio",
-        "name": "Jornal O Povo",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597243,
-      "lat": -3.7341732,
-      "lon": -38.504149,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Rua José Vilar lateral do 2353 (Restaurante Zahlé) / Esquina Avenida Santos DumontRestaurante Zahlé",
-        "name": "José Vilar",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597244,
-      "lat": -3.7266326,
-      "lon": -38.513479,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Rua João Cordeiro oposto a EEFM Santa Luzia / Esquina Rua Tenente BenévoloEEFM Santa Luzia",
-        "name": "João Cordeiro",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597245,
-      "lat": -3.7349344,
-      "lon": -38.492451,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Rua Senador Virgílio Távora lateral do número 1010 (Shopping Varanda) / Esquina Rua Dom LuísLivraria Cultura",
-        "name": "Livraria Cultura",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597246,
-      "lat": -3.7238918,
-      "lon": -38.514743,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Rua Monsenhor Tabosa 518 / Esquina Rua Nogueira AcioliMonsenhor Tabosa",
-        "name": "Monsenhor Tabosa",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597247,
-      "lat": -3.7267958,
-      "lon": -38.506248,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Rua Deputado Moreira da Rocha lateral do número 475 / Esquina Rua Rui Barbosa",
-        "name": "Moreira da Rocha",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597248,
-      "lat": -3.7259608,
-      "lon": -38.494134,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Avenida Beira Mar 2982 / Próximo ao Náutico Clube50 Sabores",
-        "name": "Naútico",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597249,
-      "lat": -3.7357836,
-      "lon": -38.565929,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Avenida Bezerra de Menezes 2450 (North Shopping)North Shopping",
-        "name": "North Shopping",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597250,
-      "lat": -3.732094,
-      "lon": -38.547983,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Avenida Bezerra de Menezes 334 / Esquina Rua Ribeiro da SilvaParque Araxá",
-        "name": "Parque Araxá",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597251,
-      "lat": -3.7231082,
-      "lon": -38.5260079,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Rua Floriano Peixoto 101 / Esquina Rua Doutor João MoreiraRua Floriano Peixoto",
-        "name": "Passeio Público",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597252,
-      "lat": -3.7316979,
-      "lon": -38.52663,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Rua Solon Pinheiro oposto ao Mercado Super Lagoa / Esquina Rua Dom Pedro IPraça Coração de Jesus",
-        "name": "Praça Coração de Jesus",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597253,
-      "lat": -3.7509275,
-      "lon": -38.546632,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "14",
-        "description": "Rua Carlos Câmara / Rua Delmiro Faria em frente à Praça Jardim América",
-        "name": "Praça Jardim América",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597254,
-      "lat": -3.7322514,
-      "lon": -38.5102106,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Avenida Santos Dumont1546 ao lado da Coord. do Gov. do Estado do Ceará / Esquina Carlos Vasconcelos",
-        "name": "Praça Luíza Távora",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597255,
-      "lat": -3.7284071,
-      "lon": -38.550369,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Praça João Pontes 643 / Esquina Rua Antônio DrumondPraça Monte Castelo",
-        "name": "Praça Monte Castelo",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597256,
-      "lat": -3.7318223,
-      "lon": -38.5432187,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Praça Otávio Bonfim / Esquina Rua Justiniano de SerpaPraça Otávio Bonfim",
-        "name": "Praça Otávio Bonfim",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597257,
-      "lat": -3.7331483,
-      "lon": -38.5322037,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Praça da Bandeira na Meton de Alencar oposto a Faculdade de Direito / Esquina Rua General Sampaio",
-        "name": "Praça da Bandeira",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597258,
-      "lat": -3.7426466,
-      "lon": -38.5375626,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Rua Waldery Uchoa 2861 / Esquina Avenida 13 de MaioPraça da Gentilândia",
-        "name": "Praça da Gentilândia",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597259,
-      "lat": -3.7457482,
-      "lon": -38.501683,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Avenida Antônio Sales na Praça da Imprensa / Esquina Avenida Desembargador MoreiraPraça da Imprensa",
-        "name": "Praça da Imprensa",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597260,
-      "lat": -3.7385783,
-      "lon": -38.4981618,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Praça General Eldoro Correia na Rua Barbosa de Freitas 500 / Esquina Av. Padre Antônio Tomás",
-        "name": "Praça das Flores",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597261,
-      "lat": -3.7279896,
-      "lon": -38.527609,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Praça do Ferreira na Rua Floriano Peixoto 625 / Esquina Rua Pedro Borges",
-        "name": "Praça do Ferreira",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597262,
-      "lat": -3.739702,
-      "lon": -38.556388,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Rua Dom Lino 590 / Esquina Avenida Jovita Feitosa lateral da Secretaria Regional 3",
-        "name": "Regional 3",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597263,
-      "lat": -3.7414294,
-      "lon": -38.5393982,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Avenida da Universidade 2854 / Esquina Av. 13 de MaioUFC",
-        "name": "Reitoria UFC",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597264,
-      "lat": -3.757763,
-      "lon": -38.531637,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "14",
-        "description": "Avenida Deputado Oswaldo Studart 1630 (Terminal Rodoviário Engenheiro José Thomé) / Esquina Avenida Borges de Melo",
-        "name": "Rodoviária",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597265,
-      "lat": -3.7368529,
-      "lon": -38.509719,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Rua Rui Barbosa em frente ao SENAC / Esquina Rua João CarvalhoSENAC",
-        "name": "Rui Barbosa",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597266,
-      "lat": -3.7334922,
-      "lon": -38.4962709,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Rua Barbosa de Freitas 820 / Esquina Rua Dom LuísShopping Aldeota",
-        "name": "Shopping Aldeota",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597267,
-      "lat": -3.7388161,
-      "lon": -38.539513,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Rua Juvenal Galeno lateral do Shopping Benfica / Esquina Avenida CarapinimaShopping Benfica",
-        "name": "Shopping Benfica",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597268,
-      "lat": -3.7367176,
-      "lon": -38.49683,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Avenida Santos Dumont 3131 (Shopping del Paseo) / Esquina Rua Leonardo MotaShopping Del Paseo",
-        "name": "Shopping Del Paseo",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597269,
-      "lat": -3.738701,
-      "lon": -38.485177,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Rua Pereira de Miranda em frente ao Terminal do Papicu / Próximo à Avenida Almirante Henrique SabóiaTerminal de Papicu",
-        "name": "Terminal do Papicu",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597270,
-      "lat": -3.7372182,
-      "lon": -38.501927,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Rua Joaquim Nabuco em frente ao Edifício Embratel / Esquina Rua Torres CâmaraEdifício Embratel",
-        "name": "Torres Câmara",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597271,
-      "lat": -3.7307919,
-      "lon": -38.514873,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Avenida Santos Dumont / Esquina Rua João CordeiroUNIMED",
-        "name": "UNIMED",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3833597272,
-      "lat": -3.7354169,
-      "lon": -38.563427,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Avenida Bezerra de Menezes 2080 / Esquina Rua Eduardo Barros LealEsquina com a Rua Eduardo Barros Leal",
-        "name": "Érico Mota",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3836270775,
-      "lat": -3.9750978,
-      "lon": -38.7077791,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3837210438,
-      "lat": -4.117549,
-      "lon": -38.4889717,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3837251757,
-      "lat": -4.1346683,
-      "lon": -38.4810513,
-      "tags": {
-        "addr:city": "Horizonte",
-        "amenity": "fuel",
-        "brand": "Shell",
-        "fuel:cng": "yes",
-        "name": "Posto de Gasolina"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3837251758,
-      "lat": -4.1350897,
-      "lon": -38.4809285,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "Shell",
-        "fuel:diesel": "yes",
-        "name": "Posto de Gasolina"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3838213748,
-      "lat": -4.1244311,
-      "lon": -38.4863383,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3839740962,
-      "lat": -4.0945752,
-      "lon": -38.4870034,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3851860602,
-      "lat": -3.7314271,
-      "lon": -38.5423938,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "Shell",
-        "shop": "convenience"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3883953752,
-      "lat": -3.751151,
-      "lon": -38.5072093,
-      "tags": {
-        "addr:housenumber": "528 A",
-        "addr:street": "Rua Lívio Barreto",
-        "name": "Bitelli Bikes",
-        "shop": "bicycle"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3886657481,
-      "lat": -3.8552777,
-      "lon": -38.4963917,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "Shell"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3886657482,
-      "lat": -3.8925883,
-      "lon": -38.5026597,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Petri Pneus"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3886657483,
-      "lat": -3.9717125,
-      "lon": -38.5149375,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3886657484,
-      "lat": -4.0371197,
-      "lon": -38.5100696,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "sp"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3886657485,
-      "lat": -4.0607705,
-      "lon": -38.5043754,
-      "tags": {
-        "amenity": "fuel",
-        "brand": "Shell"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3886657486,
-      "lat": -4.1029005,
-      "lon": -38.5000706,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3914647483,
-      "lat": -4.0164853,
-      "lon": -38.8553801,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3942728555,
-      "lat": -3.7564694,
-      "lon": -38.5822563,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3942728556,
-      "lat": -3.7601525,
-      "lon": -38.5857518,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3942729157,
-      "lat": -3.7634837,
-      "lon": -38.5874101,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3942729158,
-      "lat": -3.7656753,
-      "lon": -38.5871168,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3942729159,
-      "lat": -3.7741967,
-      "lon": -38.5875239,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3942729160,
-      "lat": -3.7765682,
-      "lon": -38.6065436,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3942729161,
-      "lat": -3.7781989,
-      "lon": -38.5965499,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3942729162,
-      "lat": -3.7797277,
-      "lon": -38.5913774,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3942729163,
-      "lat": -3.7802624,
-      "lon": -38.5918331,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3942729164,
-      "lat": -3.7840503,
-      "lon": -38.6233266,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3942729165,
-      "lat": -3.7849416,
-      "lon": -38.6184198,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3942729166,
-      "lat": -3.7860599,
-      "lon": -38.5980724,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3942729167,
-      "lat": -3.7864135,
-      "lon": -38.584,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3942729168,
-      "lat": -3.7915254,
-      "lon": -38.5887421,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3942729169,
-      "lat": -3.7923884,
-      "lon": -38.5948497,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3942729170,
-      "lat": -3.7945374,
-      "lon": -38.5926952,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3942753680,
-      "lat": -3.7723147,
-      "lon": -38.5977248,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3956080165,
-      "lat": -3.7775042,
-      "lon": -38.5620147,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3969333099,
-      "lat": -3.7280311,
-      "lon": -38.5279046,
-      "tags": {
-        "amenity": "bicycle_parking",
-        "bicycle_parking": "stands",
-        "capacity": "12",
-        "covered": "no",
-        "description": "Paraciclos do tipo \"u\" invertido patrocinados pela CDL. Uso gratuito.",
-        "name": "Praça do Ferreira"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3978749628,
-      "lat": -3.7575985,
-      "lon": -38.5329969,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "14",
-        "description": "Rua Moreira Gomes, em frente ao Prédio da OI – CONTAX / Esquina Avenida Borges de Melo",
-        "name": "Contax Borges de Melo",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3978749629,
-      "lat": -3.7395224,
-      "lon": -38.5211038,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Avenida Antônio Sales, 147 / Esquina Rua Henrique Rabêlo",
-        "name": "Salesiano Dom Bosco",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3984550034,
-      "lat": -3.8672836,
-      "lon": -38.4684733,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto Jeep"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3984550035,
-      "lat": -3.8825261,
-      "lon": -38.5017804,
-      "tags": {
-        "amenity": "fuel",
-        "name": "Posto São Cristóvão"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3984550050,
-      "lat": -3.871121,
-      "lon": -38.5010844,
-      "tags": {
-        "amenity": "fuel"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4055130773,
-      "lat": -3.7424431,
-      "lon": -38.5119411,
-      "tags": {
-        "amenity": "bicycle_parking",
-        "bicycle_parking": "stands",
-        "capacity": "2",
-        "name": "Bicicletário Úrbici"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4060084900,
-      "lat": -3.736101,
-      "lon": -38.4907097,
-      "tags": {
-        "amenity": "bicycle_parking",
-        "bicycle_parking": "stands",
-        "capacity": "8",
-        "covered": "no",
-        "description": "Bicicletário ao ar livre, do tipo \"u\" invertido.",
-        "name": "Bicicletário Pátio Dom Luís"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4060117271,
-      "lat": -3.7353118,
-      "lon": -38.4916347,
-      "tags": {
-        "amenity": "bicycle_parking",
-        "bicycle_parking": "stands",
-        "capacity": "8",
-        "covered": "no",
-        "name": "Bicicletário Le Pain Le Cafe"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4193449878,
-      "lat": -3.7315395,
-      "lon": -38.4851113,
-      "tags": {
-        "addr:city": "Fortaleza",
-        "addr:housenumber": "1680",
-        "addr:street": "Rua Ana Bilhar",
-        "addr:suburb": "Varjota",
-        "name": "Sport & Bike",
-        "operator": "Gilberto",
-        "shop": "bicycle"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4196222585,
-      "lat": -3.7435252,
-      "lon": -38.5753326,
-      "tags": {
-        "amenity": "bicycle_parking",
-        "bicycle_parking": "stands",
-        "capacity": "14",
-        "covered": "yes",
-        "name": "Engenharia Civil"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4198104196,
-      "lat": -3.733003,
-      "lon": -38.4920294,
-      "tags": {
-        "access": "permissive",
-        "amenity": "bicycle_parking",
-        "bicycle_parking": "rack",
-        "capacity": "12",
-        "covered": "no",
-        "name": "Mercadinho São Luiz"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4201149583,
-      "lat": -3.7313649,
-      "lon": -38.523059,
-      "tags": {
-        "access": "yes",
-        "amenity": "bicycle_parking",
-        "bicycle_parking": "stands",
-        "capacity": "14",
-        "covered": "no",
-        "name": "Parque Pajeú",
-        "source": "survey"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4224562935,
-      "lat": -3.7301438,
-      "lon": -38.5047905,
-      "tags": {
-        "addr:city": "Fortaleza",
-        "addr:housenumber": "25",
-        "addr:street": "Rua Edgar Damasceno",
-        "addr:suburb": "Meireles",
-        "name": "RPM Bike Shop",
-        "phone": "+55 85 98847-7511",
-        "shop": "bicycle"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4224571254,
-      "lat": -3.7298279,
-      "lon": -38.485209,
-      "tags": {
-        "addr:city": "Fortaleza",
-        "addr:housenumber": "267",
-        "addr:street": "Rua Coronel Manuel Jesuíno",
-        "addr:suburb": "Mucuripe",
-        "name": "Bicicletaria IRC",
-        "phone": "+55 85 3086-5532",
-        "shop": "bicycle"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4225603184,
-      "lat": -3.7319971,
-      "lon": -38.5254315,
-      "tags": {
-        "access": "yes",
-        "amenity": "bicycle_parking",
-        "bicycle_parking": "stands",
-        "capacity": "14",
-        "covered": "no",
-        "name": "Cidade das Crianças"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4225655058,
-      "lat": -3.745189,
-      "lon": -38.5375882,
-      "tags": {
-        "addr:city": "Fortaleza",
-        "addr:housenumber": "1134",
-        "addr:street": "Rua Marechal Deodoro",
-        "addr:suburb": "Benfica",
-        "name": "GT Ciclo",
-        "shop": "bicycle"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4225674469,
-      "lat": -3.7375646,
-      "lon": -38.5411973,
-      "tags": {
-        "addr:city": "Fortaleza",
-        "addr:housenumber": "2402",
-        "addr:street": "Rua Padre Mororó",
-        "addr:suburb": "Benfica",
-        "name": "Ciclo Benfica",
-        "shop": "bicycle"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4225989513,
-      "lat": -3.7439628,
-      "lon": -38.4856682,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "description": "Avenida Padre Antônio Tomás em frente ao Anfiteatro do Cocó / Esquina Rua Valdetário Mota Parque do Cocó",
-        "name": "Anfiteatro Parque do Cocó",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4225989514,
-      "lat": -3.7282524,
-      "lon": -38.5452156,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "description": "Avenida José Jatahy em frente a Mitsubishi no calçadão Crasa / Esquina com a Travessa Epifânio Leite",
-        "name": "Calçadão Crasa",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4225989515,
-      "lat": -3.7493925,
-      "lon": -38.4714966,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "description": "Canteiro central da Avenida Central próximo ao Mini Mix Presentes / Esquina Alameda das Beneditas",
-        "name": "Cidade 2000",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4225989516,
-      "lat": -3.7467184,
-      "lon": -38.4973946,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "description": "Rua Coronel Linhares lateral da Farmácia Extrafarma / Esquina Avenida Antônio Sales",
-        "name": "Coronel Linhares",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4225989517,
-      "lat": -3.7260306,
-      "lon": -38.5406723,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "description": "Rua Padre Ibiapina em frente ao SENAI / Esquina com a Rua Júlio Pinto",
-        "name": "FAMETRO",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4225989518,
-      "lat": -3.7640657,
-      "lon": -38.4860344,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Rua Eliseu Uchôa Beco em frente à FIC / Entre a Rua Firmino Rocha Aguiar e a Rua Romeu Aldigueri",
-        "name": "FIC Guararapes",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4225989519,
-      "lat": -3.7362771,
-      "lon": -38.5314674,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "description": "Rua Barão do Rio Branco lateral do Power Turbo Pneus / Esquina Avenida Domingos Olímpio",
-        "name": "Faculdade Lourenço Filho",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4225989520,
-      "lat": -3.7311139,
-      "lon": -38.5283508,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "description": "Rua Floriano Peixoto oposto ao estacionamento Lup Park / Esquina Rua Pedro I",
-        "name": "Floriano Peixoto",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4225989521,
-      "lat": -3.7473295,
-      "lon": -38.4703445,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "description": "Rua Doutor Francisco Matos em frente a Praça s/nome próximo ao chafariz desativado / Esquina Rua Doutor Gilberto Studart",
-        "name": "Francisco Matos",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4225989522,
-      "lat": -3.7742715,
-      "lon": -38.4818497,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "14",
-        "description": "Canteiro central da Av. Washington Soares / Esquina Rua Otacílio Mota",
-        "name": "Fórum",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4225989523,
-      "lat": -3.7404568,
-      "lon": -38.4764748,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "description": "Rua André Dall´olio em frente ao Hospital Geral de Fortaleza / Esquina Rua Professor Otávio Lobo",
-        "name": "Hospital Geral de Fortaleza",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4225989524,
-      "lat": -3.7415488,
-      "lon": -38.4813881,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "description": "Rua Júlio Azevedo em frente ao Mercadinhos São Luiz / Esquina Avenida Santos Dumont",
-        "name": "Júlio Azevedo",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4225989525,
-      "lat": -3.7236533,
-      "lon": -38.5413361,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "description": "Avenida Filomeno Gomes oposto ao número 100 (Padaria Pão da Praça) / Em frente a Praça Gustavo Barroso",
-        "name": "Liceu do Ceará",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4225989526,
-      "lat": -3.7427628,
-      "lon": -38.4784279,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "description": "Avenida Santos Dumont 6050 / Entre a Rua Professor Otávio Lobo e a Rua Batista de Oliveira",
-        "name": "Otávio Lobo",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4225989527,
-      "lat": -3.7463129,
-      "lon": -38.4799538,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "description": "Rua Professor Otávio Lobo oposto ao Portugália Shopping / Esquina Avenida Padre Antônio Tomás",
-        "name": "Portugália",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4225989528,
-      "lat": -3.7454786,
-      "lon": -38.4758186,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "description": "Rua Almeida Prado no estacionamento da Praça Martins Dourado / Esquina Rua Doutor Gilberto Studart",
-        "name": "Praça Martins Dourado",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4225989529,
-      "lat": -3.7630906,
-      "lon": -38.4831238,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "12",
-        "description": "Avenida Washington Soares no acesso a Passarela de Pedestres oposto ao Centro de Eventos do Ceará / Esquina Rua Firmino Rocha Aguiar",
-        "name": "Salinas",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4225989530,
-      "lat": -3.7436466,
-      "lon": -38.4955482,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "description": "Rua Vicente Linhares lateral Colégio Santa Cecília / Esquina com a Avenida Senador Virgílio Távora",
-        "name": "Santa Cecília",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4225989531,
-      "lat": -3.7579317,
-      "lon": -38.4883347,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "21",
-        "description": "Avenida Coronel Miguel Dias lateral do Shopping Ouro Verde / Esquina com a Avenida Washington Soares",
-        "name": "Shopping Iguatemi",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4225989532,
-      "lat": -3.7417049,
-      "lon": -38.47332,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "description": "Rua Des. Lauro Nogueira em frente ao Shopping Rio Mar / Oposto ao Coelce - Subestação Papicu",
-        "name": "Shopping RioMar",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4225989533,
-      "lat": -3.7712493,
-      "lon": -38.4819412,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "21",
-        "description": "Canteiro Central da Avenida Washington Soares próximo a UNIFOR / Esquina com a Avenida Doutor Valmir Ponte",
-        "name": "Unifor",
-        "network": "Bicicletar",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4228511568,
-      "lat": -3.77671,
-      "lon": -38.5634326,
-      "tags": {
-        "amenity": "bicycle_rental",
-        "capacity": "50",
-        "name": "Terminal Parangaba",
-        "network": "Bicicleta Integrada",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4228583027,
-      "lat": -3.7579262,
-      "lon": -38.4836298,
-      "tags": {
-        "access": "permissive",
-        "amenity": "bicycle_parking",
-        "bicycle_parking": "stands",
-        "capacity": "32",
-        "covered": "yes",
-        "name": "Leroy Merlin"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4228585384,
-      "lat": -3.7553604,
-      "lon": -38.4899324,
-      "tags": {
-        "access": "permissive",
-        "amenity": "bicycle_parking",
-        "covered": "yes",
-        "name": "Shopping Iguatemi"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4228800830,
-      "lat": -3.7392582,
-      "lon": -38.5904829,
-      "tags": {
-        "addr:city": "Fortaleza",
-        "addr:housenumber": "5142",
-        "addr:street": "Avenida Mister Hull",
-        "addr:suburb": "Antônio Bezerra",
-        "name": "Ciclo Peças Timbó",
-        "phone": "+55 85 3235-5019",
-        "shop": "bicycle"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4228830551,
-      "lat": -3.7303407,
-      "lon": -38.5764291,
-      "tags": {
-        "addr:city": "Fortaleza",
-        "addr:housenumber": "3980",
-        "addr:street": "Avenida Sargento Herminio Sampaio",
-        "addr:suburb": "Padre Andrade",
-        "name": "Santana Ciclo",
-        "phone": "+55 85 98555-5286",
-        "shop": "bicycle"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4228843489,
-      "lat": -3.727071,
-      "lon": -38.5649098,
-      "tags": {
-        "addr:city": "Fortaleza",
-        "addr:housenumber": "2732",
-        "addr:street": "Avenida Sargento Herminio Sampaio",
-        "addr:suburb": "Vila Ellery",
-        "name": "Jonas Ciclo",
-        "phone": "+55 85 98821-9628",
-        "shop": "bicycle"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4229161613,
-      "lat": -3.7754035,
-      "lon": -38.6060793,
-      "tags": {
-        "addr:city": "Fortaleza",
-        "addr:housenumber": "1528",
-        "addr:street": "Avenida A",
-        "addr:suburb": "Conjunto Ceará",
-        "name": "Kaciclista Peças - Conjunto Ceará",
-        "phone": "+55 85 3294-3097 / 3025-5231",
-        "shop": "bicycle"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4229176199,
-      "lat": -3.7765788,
-      "lon": -38.614188,
-      "tags": {
-        "addr:city": "Fortaleza",
-        "addr:housenumber": "3615",
-        "addr:street": "Rua Sousa Carvalho",
-        "addr:suburb": "Granja Lisboa",
-        "name": "Universo Paralelo",
-        "phone": "+55 \t 85 3016-2380 / 98843-9946",
-        "shop": "bicycle"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4229180338,
-      "lat": -3.7807981,
-      "lon": -38.5910521,
-      "tags": {
-        "addr:city": "Fortaleza",
-        "addr:housenumber": "1065",
-        "addr:street": "Rua Emílio de Menezes",
-        "addr:suburb": "Bonsucesso",
-        "name": "Cabiludo Ciclo",
-        "shop": "bicycle"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4229183284,
-      "lat": -3.782151,
-      "lon": -38.5830993,
-      "tags": {
-        "addr:city": "Fortaleza",
-        "addr:housenumber": "216",
-        "addr:street": "Rua Vital Brasil",
-        "addr:suburb": "Bonsucesso",
-        "name": "Brasil Bike",
-        "shop": "bicycle"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4229190928,
-      "lat": -3.7811566,
-      "lon": -38.5801427,
-      "tags": {
-        "addr:city": "Fortaleza",
-        "addr:housenumber": "1710 A",
-        "addr:street": "Avenida Augusto dos Anjos",
-        "addr:suburb": "Bonsucesso",
-        "name": "Nonato Ciclo",
-        "phone": "+55 85 3292-1132 / 98891-5810",
-        "shop": "bicycle"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4230573112,
-      "lat": -3.7908196,
-      "lon": -38.588772,
-      "tags": {
-        "addr:city": "Fortaleza",
-        "addr:housenumber": "944",
-        "addr:street": "Rua Luís Vieira",
-        "addr:suburb": "Vila Peri",
-        "name": "Ciclopeças Maydany",
-        "phone": "+55 85 3292-1331",
-        "shop": "bicycle"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4230573113,
-      "lat": -3.7911592,
-      "lon": -38.5891101,
-      "tags": {
-        "addr:city": "Fortaleza",
-        "addr:housenumber": "3454",
-        "addr:street": "Avenida General Osório de Paiva",
-        "addr:suburb": "Vila Peri",
-        "name": "Mota Ciclo",
-        "phone": "+55 85 3484-4526 / 85 3484-4985",
-        "shop": "bicycle",
-        "website": "fb.com/MotaCiclo"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4230577715,
-      "lat": -3.7895903,
-      "lon": -38.5870793,
-      "tags": {
-        "access": "yes",
-        "amenity": "bicycle_parking",
-        "bicycle_parking": "shed",
-        "capacity": "38",
-        "covered": "yes",
-        "maxstay": "48h",
-        "name": "Terminal Siqueira",
-        "opening_hours": "04:00-22:00",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4230590434,
-      "lat": -3.7671858,
-      "lon": -38.4871812,
-      "tags": {
-        "amenity": "bicycle_parking",
-        "bicycle_parking": "stands",
-        "capacity": "4",
-        "covered": "no",
-        "name": "Canteiro Central"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4230590435,
-      "lat": -3.7675648,
-      "lon": -38.486529,
-      "tags": {
-        "access": "permissive",
-        "amenity": "bicycle_parking",
-        "bicycle_parking": "stands",
-        "capacity": "12",
-        "covered": "no",
-        "name": "Ayo Fitness Club"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4234199311,
-      "lat": -3.7472938,
-      "lon": -38.5757012,
-      "tags": {
-        "amenity": "bicycle_parking",
-        "covered": "yes",
-        "name": "Campos do Pici"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4234208803,
-      "lat": -3.8722937,
-      "lon": -38.6112979,
-      "tags": {
-        "amenity": "bicycle_parking",
-        "name": "IFCE Maracanaú"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4243040829,
-      "lat": -3.7555065,
-      "lon": -38.5081045,
-      "tags": {
-        "addr:city": "Fortaleza",
-        "addr:housenumber": "1295",
-        "addr:street": "Rua Monsenhor Salazar",
-        "addr:suburb": "São João do Tauape",
-        "name": "Ciclomar Peças",
-        "phone": "+55 85 3272-3746",
-        "shop": "bicycle"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4243856721,
-      "lat": -3.7484786,
-      "lon": -38.5032416,
-      "tags": {
-        "access": "customers",
-        "amenity": "bicycle_parking",
-        "bicycle_parking": "stands",
-        "capacity": "4",
-        "covered": "no",
-        "name": "Casa de Moá"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4248789526,
-      "lat": -3.7835238,
-      "lon": -38.4819466,
-      "tags": {
-        "amenity": "bicycle_parking",
-        "bicycle_parking": "stands",
-        "capacity": "12",
-        "covered": "yes",
-        "name": "Reserva Open Mall"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4249267646,
-      "lat": -3.7416697,
-      "lon": -38.4959277,
-      "tags": {
-        "addr:city": "Fortaleza",
-        "addr:housenumber": "850",
-        "addr:street": "Avenida Padre Antônio Tomás",
-        "addr:suburb": "Aldeota",
-        "name": "Barcellos Sports Fortaleza",
-        "phone": "+55 85 3268-3782",
-        "shop": "bicycle",
-        "website": "http://www.barcellossportsfortaleza.com.br/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4249275542,
-      "lat": -3.7325823,
-      "lon": -38.5044595,
-      "tags": {
-        "addr:city": "Fortaleza",
-        "addr:housenumber": "2155 - loja 3",
-        "addr:street": "Rua Costa Barros",
-        "addr:suburb": "Aldeota",
-        "name": "Casa do Ciclista",
-        "phone": "+55 85 3224-7194",
-        "shop": "bicycle"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4249278631,
-      "lat": -3.7296935,
-      "lon": -38.5090588,
-      "tags": {
-        "addr:city": "Fortaleza",
-        "addr:housenumber": "1554",
-        "addr:street": "Rua Pereira Filgueiras",
-        "addr:suburb": "Aldeota",
-        "name": "João Ciclo",
-        "phone": "+55 85 3248-8304",
-        "shop": "bicycle"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4249504990,
-      "lat": -3.7446812,
-      "lon": -38.4960856,
-      "tags": {
-        "addr:city": "Fortaleza",
-        "addr:housenumber": "848",
-        "addr:street": "Rua General Tertuliano Potiguara",
-        "addr:suburb": "Aldeota",
-        "name": "Clara Peças",
-        "phone": "+55 85 98631-2397",
-        "shop": "bicycle"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4249508130,
-      "lat": -3.7443452,
-      "lon": -38.5214528,
-      "tags": {
-        "addr:city": "Fortaleza",
-        "addr:housenumber": "81",
-        "addr:street": "Rua Pinho Pessoa",
-        "addr:suburb": "Joaquim Távora",
-        "name": "Amiguinho",
-        "phone": "+55 85 3252-4442",
-        "shop": "bicycle"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4254609507,
-      "lat": -3.7461099,
-      "lon": -38.4890114,
-      "tags": {
-        "amenity": "bicycle_parking",
-        "bicycle_parking": "stands",
-        "capacity": "12",
-        "covered": "no",
-        "name": "Bicicletário Mercadinhos São Luiz"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4262975299,
-      "lat": -3.7510909,
-      "lon": -38.4700884,
-      "tags": {
-        "addr:city": "Fortaleza",
-        "addr:housenumber": "195",
-        "addr:street": "Alameda Santa Mará",
-        "addr:suburb": "Cidade 2000",
-        "name": "Ciclo Adventure Fortaleza",
-        "phone": "+55 85 3249-3636",
-        "shop": "bicycle",
-        "website": "http://cicloadventurefortaleza.com.br/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4263187386,
-      "lat": -3.7765686,
-      "lon": -38.5873737,
-      "tags": {
-        "addr:city": "Fortaleza",
-        "addr:housenumber": "235",
-        "addr:street": "Rua Anselmo Nogueira",
-        "addr:suburb": "Bonsucesso",
-        "name": "Sinal Verde para o Ciclista - loja 2",
-        "phone": "+55 85 3290-1280",
-        "shop": "bicycle"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4263187387,
-      "lat": -3.7766424,
-      "lon": -38.5875885,
-      "tags": {
-        "addr:city": "Fortaleza",
-        "addr:housenumber": "270",
-        "addr:street": "Rua Anselmo Nogueira",
-        "addr:suburb": "Bonsucesso",
-        "name": "Ciclovias Cordeiro",
-        "phone": "+55 85 3233-2273 / 98828-9918",
-        "shop": "bicycle"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4263192253,
-      "lat": -3.7672159,
-      "lon": -38.5843928,
-      "tags": {
-        "addr:city": "Fortaleza",
-        "addr:housenumber": "400",
-        "addr:street": "Avenida Porto Velho",
-        "addr:suburb": "Henrique Jorge",
-        "name": "Bazar dos Ciclistas",
-        "phone": "+55 \t 85 3290-6402",
-        "shop": "bicycle"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4263195494,
-      "lat": -3.7637951,
-      "lon": -38.5793818,
-      "tags": {
-        "addr:city": "Fortaleza",
-        "addr:housenumber": "731",
-        "addr:street": "Avenida Senador Fernandes Távora",
-        "addr:suburb": "Jóquei Clube",
-        "name": "Maia Ciclo",
-        "phone": "+55 85 3484-4873 / 98834-6761",
-        "shop": "bicycle"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4263211045,
-      "lat": -3.7755995,
-      "lon": -38.5648928,
-      "tags": {
-        "addr:city": "Fortaleza",
-        "addr:housenumber": "124",
-        "addr:street": "Avenida Cônego de Castro",
-        "addr:suburb": "Parangaba",
-        "name": "Crisciclo",
-        "phone": "+55 85 3224-2828",
-        "shop": "bicycle"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4263211046,
-      "lat": -3.775742,
-      "lon": -38.5644922,
-      "tags": {
-        "addr:city": "Fortaleza",
-        "addr:housenumber": "137",
-        "addr:street": "Rua Eduardo Perdigão",
-        "addr:suburb": "Parangaba",
-        "name": "CicloDias",
-        "phone": "+55 85 3225-6228",
-        "shop": "bicycle"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4263222550,
-      "lat": -3.7515027,
-      "lon": -38.5674404,
-      "tags": {
-        "addr:city": "Fortaleza",
-        "addr:housenumber": "282",
-        "addr:street": "Rua Espírito Santo",
-        "addr:suburb": "Panamericano",
-        "name": "UTI das Bicicletas",
-        "phone": "+55 85 3482-8536 / 98726-9754",
-        "shop": "bicycle"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4263231431,
-      "lat": -3.7452956,
-      "lon": -38.5610346,
-      "tags": {
-        "addr:city": "Fortaleza",
-        "addr:housenumber": "954",
-        "addr:street": "Rua Érico Mota",
-        "addr:suburb": "Amadeu Furtado",
-        "name": "JA Ciclo",
-        "phone": "+55 85 98791-4615",
-        "shop": "bicycle"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4263251919,
-      "lat": -3.7470056,
-      "lon": -38.5568462,
-      "tags": {
-        "addr:city": "Fortaleza",
-        "addr:housenumber": "1182",
-        "addr:street": "Rua Francisca Clotilde",
-        "addr:suburb": "Rodolfo Teófilo",
-        "name": "Falcão Ciclo",
-        "phone": "+55 85 98781-9590",
-        "shop": "bicycle"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4270037929,
-      "lat": -3.7686729,
-      "lon": -38.4811028,
-      "tags": {
-        "access": "permissive",
-        "amenity": "bicycle_parking",
-        "bicycle_parking": "stands",
-        "capacity": "12",
-        "covered": "no",
-        "name": "Unifor"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4270037930,
-      "lat": -3.7698381,
-      "lon": -38.4817162,
-      "tags": {
-        "access": "permissive",
-        "amenity": "bicycle_parking",
-        "bicycle_parking": "stands",
-        "capacity": "12",
-        "covered": "no",
-        "name": "Unifor"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4270037931,
-      "lat": -3.7712023,
-      "lon": -38.4807652,
-      "tags": {
-        "access": "permissive",
-        "amenity": "bicycle_parking",
-        "bicycle_parking": "stands",
-        "capacity": "12",
-        "covered": "no",
-        "name": "Unifor"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4296832690,
-      "lat": -3.7370288,
-      "lon": -38.496973,
-      "tags": {
-        "addr:city": "Fortaleza",
-        "addr:housenumber": "3130",
-        "addr:street": "Avenida Santos Dumont",
-        "addr:suburb": "Aldeota",
-        "name": "Urbana Bike Shop",
-        "phone": "+55 85 3224-9205 / 98811-6906",
-        "shop": "bicycle"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4300576596,
-      "lat": -3.7387131,
-      "lon": -38.4850521,
-      "tags": {
-        "access": "yes",
-        "amenity": "bicycle_parking",
-        "bicycle_parking": "shed",
-        "covered": "yes",
-        "maxstay": "48h",
-        "name": "Terminal Papicu",
-        "note": "conferir a localização exata, inseri neste local apenas para guardar os dados",
-        "opening_hours": "04:00-22:00",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4309962485,
-      "lat": -3.7357247,
-      "lon": -38.4968376,
-      "tags": {
-        "access": "permissive",
-        "amenity": "bicycle_parking",
-        "bicycle_parking": "stands",
-        "covered": "no",
-        "name": "Bicicletário Del Paseo",
-        "note": "conferir capacidade (n. de vagas)"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4313207578,
-      "lat": -3.7728115,
-      "lon": -38.6079985,
-      "tags": {
-        "access": "yes",
-        "amenity": "bicycle_parking",
-        "bicycle_parking": "shed",
-        "capacity": "40",
-        "covered": "yes",
-        "maxstay": "48h",
-        "name": "Terminal Conjunto Ceará",
-        "opening_hours": "4:00-22:00",
-        "operator": "Prefeitura Municipal de Fortaleza"
-      }
-    }
+
+{
+  "type": "node",
+  "id": 616060551,
+  "lat": -3.7244893,
+  "lon": -38.5511886,
+  "tags": {
+    "amenity": "fuel"
+  }
+},
+{
+  "type": "node",
+  "id": 616060554,
+  "lat": -3.7200783,
+  "lon": -38.5497938,
+  "tags": {
+    "amenity": "fuel"
+  }
+},
+{
+  "type": "node",
+  "id": 988327130,
+  "lat": -3.6350068,
+  "lon": -38.7126628,
+  "tags": {
+    "amenity": "fuel",
+    "shop": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1618395558,
+  "lat": -3.7398356,
+  "lon": -38.4867612,
+  "tags": {
+    "amenity": "fuel"
+  }
+},
+{
+  "type": "node",
+  "id": 1620510525,
+  "lat": -3.7712708,
+  "lon": -38.4823501,
+  "tags": {
+    "amenity": "fuel",
+    "name": "Esso"
+  }
+},
+{
+  "type": "node",
+  "id": 1620567957,
+  "lat": -3.7888492,
+  "lon": -38.4707522,
+  "tags": {
+    "amenity": "fuel",
+    "name": "Posto SP"
+  }
+},
+{
+  "type": "node",
+  "id": 1947457013,
+  "lat": -3.7460734,
+  "lon": -38.5434441,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "3555",
+    "addr:street": "Avenida JoÃ£o Pessoa",
+    "addr:suburb": "Damas",
+    "amenity": "fuel",
+    "brand": "Shell",
+    "name": "Posto Shel TalismÃ£ (JoÃ£o Pesoa)"
+  }
+},
+{
+  "type": "node",
+  "id": 2052022506,
+  "lat": -3.8208107,
+  "lon": -38.5576088,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "2721",
+    "addr:street": "Avenida Presidente Costa e Silva (Perimetral)",
+    "addr:suburb": "Parque dois IrmÃ£os",
+    "amenity": "fuel",
+    "name": "Posto Itapery (JosÃ© Walter)"
+  }
+},
+{
+  "type": "node",
+  "id": 2458353078,
+  "lat": -3.7467599,
+  "lon": -38.4897275,
+  "tags": {
+    "amenity": "fuel",
+    "brand": "BR",
+    "building": "yes",
+    "operator": "Petrobras"
+  }
+},
+{
+  "type": "node",
+  "id": 2555538623,
+  "lat": -3.8385324,
+  "lon": -38.5831578,
+  "tags": {
+    "amenity": "fuel"
+  }
+},
+{
+  "type": "node",
+  "id": 2764453395,
+  "lat": -3.7466337,
+  "lon": -38.4801991,
+  "tags": {
+    "amenity": "fuel"
+  }
+},
+{
+  "type": "node",
+  "id": 3717065214,
+  "lat": -3.7459898,
+  "lon": -38.5735138,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "name": "BicicletÃ¡rio da Geografia"
+  }
+},
+{
+  "type": "node",
+  "id": 3808877439,
+  "lat": -3.6679265,
+  "lon": -38.9799272,
+  "tags": {
+    "amenity": "fuel"
+  }
+},
+{
+  "type": "node",
+  "id": 3830141492,
+  "lat": -3.7653263,
+  "lon": -38.5769028,
+  "tags": {
+    "amenity": "fuel"
+  }
+},
+{
+  "type": "node",
+  "id": 3830141541,
+  "lat": -3.7756534,
+  "lon": -38.6074585,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "s/n",
+    "addr:street": "Rua Vital Brasil",
+    "addr:suburb": "Granja Portugal",
+    "amenity": "fuel",
+    "name": "Posto Shell (Conjunto CearÃ¡)"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597215,
+  "lat": -3.7308997,
+  "lon": -38.4915050,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Rua Ana Bilhar 1001 (Loja Terra Brasilis) / Esquina Avenida Senador VirgÃ­lio TÃ¡vora",
+    "name": "Ana Bilhar",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597216,
+  "lat": -3.7511158,
+  "lon": -38.5020650,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Rua Barbosa de Freitas em frente a AssemblÃ©ia Legislativa (Edificio Senador CÃ©sar Cals) / Esquina Avenida Pontes VieiraAssemblÃ©ia Legislativa",
+    "name": "estaÃ§Ã£o de Bicicletas Assembleia Legislativa",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597217,
+  "lat": -3.7201971,
+  "lon": -38.5115460,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Avenida Beira Mar 916 (Loja SorvetÃ£o) / Esquina Rua JoÃ£o CordeiroSorvetÃ£o",
+    "name": "Aterrinho da Praia de Iracema",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597218,
+  "lat": -3.7233324,
+  "lon": -38.5052358,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Rua Rui Barbosa 1680 (Boteco da Praia) / Esquina Avenida Beira MarBoteco da Praia",
+    "name": "Aterro Praia de Iracema",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597219,
+  "lat": -3.7386763,
+  "lon": -38.4916609,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Avenida Santos Dumont oposto ao BNB Clube / Esquina Rua Coronel JucÃ¡BNB Clube",
+    "name": "BNB Clube",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597220,
+  "lat": -3.7257252,
+  "lon": -38.5255490,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Avenida Conde DÂ´Eu em frente ao Centro Cultural BNB / Esquina Rua Senador Almir PintoCatedral",
+    "name": "BNB Cultural Catedral",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597221,
+  "lat": -3.7483832,
+  "lon": -38.5302400,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Rua Padre Barbosa de Jesus oposto ao nÃºmero 1345 / Esquina com a Avenida 13 de Maio",
+    "name": "Banco do Brasil - 13 de Maio",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597222,
+  "lat": -3.7302973,
+  "lon": -38.5028297,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Rua JosÃ© Vilar 540 / Esquina Rua Tenente BenÃ©volo",
+    "name": "Campo do AmÃ©rica",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597223,
+  "lat": -3.7386180,
+  "lon": -38.5694110,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "14",
+    "description": "Rua Acesso PÃºblico prÃ³ximo Ã  entrada da UFC / Esquina com a Avenida Humberto MonteUFC",
+    "name": "Campus do Pici - UFC",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597224,
+  "lat": -3.7489708,
+  "lon": -38.5531270,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "14",
+    "description": "Rua Coronel Nunes de Melo 1315 (UFC) / Esquina Rua Professor Costa Mendes",
+    "name": "Campus PorangabuÃ§u - UFC",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597225,
+  "lat": -3.7431306,
+  "lon": -38.5096950,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Av. Antonio Sales em frente ao Carrefour / Esquina Avenida BarÃ£o de StudartCarrefour",
+    "name": "EstaÃ§Ã£o Carrefour",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597226,
+  "lat": -3.7588242,
+  "lon": -38.5437940,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Rua AfrodÃ­sio Gondim 622 (SanduÃ­ches Bebelu) / Esquina Avenida Professor Gomes de Matos",
+    "name": "Casa Freitas Montese",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597227,
+  "lat": -3.7506302,
+  "lon": -38.5319480,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Rua Ministro Joaquim Bastos em frente ao Centro de Humanidade / Esquina Rua Monsenhor Liberato",
+    "name": "Centro de Humanidades - UECE",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597228,
+  "lat": -3.7553668,
+  "lon": -38.5463332,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Rua Frei Orlando 684 / EsquinaRua Costa Mendes",
+    "name": "Costa Mendes",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597229,
+  "lat": -3.7303430,
+  "lon": -38.4963040,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Rua Canuto de Aguiar 712B / Esquina Rua Desembargador Moreira",
+    "name": "CÃ­rculo Militar",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597230,
+  "lat": -3.7218305,
+  "lon": -38.5195377,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Rua DragÃ£o do Mar em frente ao Centro DragÃ£o do Mar / Esquina Rua Almirante JaceguaiDragÃ£o do Mar",
+    "name": "DragÃ£o do Mar",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597231,
+  "lat": -3.7627653,
+  "lon": -38.5468991,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Avenida Professor Gomes de Matos 1157 / Esquina Rua SÃ¡tiro Dias",
+    "name": "Esplanada Montese",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597232,
+  "lat": -3.7487194,
+  "lon": -38.5242590,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Rua Coronel Pergentino / Esquina Avenida Aguanambi",
+    "name": "Extra Aguanambi",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597233,
+  "lat": -3.7427150,
+  "lon": -38.5015720,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Rua Visconde de MauÃ¡ em frente ao FIC Aldeota / Esquina Rua General Tertuliano PotiguaraFIC Aldeota",
+    "name": "FIC Aldeota",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597234,
+  "lat": -3.7249075,
+  "lon": -38.5510850,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "14",
+    "description": "Rua Padre Anchieta em frente ao Supermercado FrangolÃ¢ndia / Esquina Avenida Sargento HermÃ­nio SampaioSupermercado FrangolÃ¢ndia",
+    "name": "FrangolÃ¢ndia Sgt. HermÃ­nio",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597235,
+  "lat": -3.7359524,
+  "lon": -38.4887970,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Rua Dom LuÃ­s 1400B / Esquina Rua Frei Mansueto",
+    "name": "Frei Mansueto",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597236,
+  "lat": -3.7490591,
+  "lon": -38.5505320,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Rua Alexandre BaraÃºna 773 / Esquina Rua CapitÃ£o Francisco Pedro",
+    "name": "EstaÃ§Ã£o de Bicicletas HEMOCE",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597237,
+  "lat": -3.7410188,
+  "lon": -38.5607320,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Rua Professor Lino EncarnaÃ§Ã£o em frente Ã  ParÃ³quia de Santo Afonso â€“ Igreja Redonda / Esquina Avenida Jovita FeitosaIgreja Redonda",
+    "name": "Igreja Redonda",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597238,
+  "lat": -3.7526006,
+  "lon": -38.5252060,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Rua Dom SebastiÃ£o Leme em frente Ã  PraÃ§a Nossa Senhora de FÃ¡tima / Esquina Avenida 13 de Maio",
+    "name": "Igreja de FÃ¡tima",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597239,
+  "lat": -3.7565373,
+  "lon": -38.5406850,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Rua Padre JosÃ© Piamarta 128 / Esquina Rua AndrÃ© Chaves",
+    "name": "Igreja de NazarÃ©",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597240,
+  "lat": -3.7330638,
+  "lon": -38.5518687,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Canteiro Central da Avenida Bezerra de Menezes 801 / Esquina Rua Padre AnchietaInstituto dos Cegos",
+    "name": "Instituto dos Cegos",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597241,
+  "lat": -3.7321014,
+  "lon": -38.5002730,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Rua Joaquim Nabuco 730 / Esquina Rua Dom LuÃ­s",
+    "name": "Joaquim Nabuco",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597242,
+  "lat": -3.7392794,
+  "lon": -38.5245291,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Avenida Aguanambi 282 (Jornal O Povo) / Esquina Avenida Domingos OlÃ­mpio",
+    "name": "Jornal O Povo",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597243,
+  "lat": -3.7341732,
+  "lon": -38.5041490,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Rua JosÃ© Vilar lateral do 2353 (Restaurante ZahlÃ©) / Esquina Avenida Santos Dumont Restaurante ZahlÃ©",
+    "name": "JosÃ© Vilar",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597244,
+  "lat": -3.7266326,
+  "lon": -38.5134790,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Rua JoÃ£o Cordeiro oposto a EEFM Santa Luzia / Esquina Rua Tenente BenÃ©voloEEFM Santa Luzia",
+    "name": "JoÃ£o Cordeiro",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597245,
+  "lat": -3.7351639,
+  "lon": -38.4925093,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Rua Senador VirgÃ­lio TÃ¡vora lateral do nÃºmero 1010 (Shopping Varanda) / Esquina Rua Dom LuÃ­s/Livraria Cultura",
+    "name": "Livraria Cultura",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597246,
+  "lat": -3.7238918,
+  "lon": -38.5147430,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Rua Monsenhor Tabosa 518 / Esquina Rua Nogueira AcioliMonsenhor Tabosa",
+    "name": "Monsenhor Tabosa",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597247,
+  "lat": -3.7268742,
+  "lon": -38.5062960,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Rua Deputado Moreira da Rocha lateral do nÃºmero 475 / Esquina Rua Rui Barbosa",
+    "name": "Moreira da Rocha",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597248,
+  "lat": -3.7259608,
+  "lon": -38.4941340,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Avenida Beira Mar 2982 / PrÃ³ximo ao NÃ¡utico Clube 50 Sabores",
+    "name": "NaÃºtico",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597249,
+  "lat": -3.7359681,
+  "lon": -38.5668026,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Avenida Bezerra de Menezes 2450 (North Shopping)North Shopping",
+    "name": "North Shopping",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597251,
+  "lat": -3.7231082,
+  "lon": -38.5260079,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Rua Floriano Peixoto 101 / Esquina Rua Doutor JoÃ£o MoreiraRua Floriano Peixoto",
+    "name": "Passeio PÃºblico",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597252,
+  "lat": -3.7316979,
+  "lon": -38.5266300,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Rua Solon Pinheiro oposto ao Mercado Super Lagoa / Esquina Rua Dom Pedro IPraÃ§a CoraÃ§Ã£o de Jesus",
+    "name": "PraÃ§a CoraÃ§Ã£o de Jesus",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597253,
+  "lat": -3.7509275,
+  "lon": -38.5466320,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "14",
+    "description": "Rua Carlos CÃ¢mara / Rua Delmiro Faria em frente Ã  PraÃ§a Jardim AmÃ©rica",
+    "name": "PraÃ§a Jardim AmÃ©rica",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597254,
+  "lat": -3.7322514,
+  "lon": -38.5102106,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Avenida Santos Dumont, 1546 - ao lado da Coord. do Gov. do Estado do CearÃ¡ / Esquina Carlos Vasconcelos",
+    "name": "PraÃ§a LuÃ­za TÃ¡vora",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597255,
+  "lat": -3.7284071,
+  "lon": -38.5503690,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "PraÃ§a JoÃ£o Pontes 643 / Esquina Rua AntÃ´nio DrumondPraÃ§a Monte Castelo",
+    "name": "PraÃ§a Monte Castelo",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597256,
+  "lat": -3.7314567,
+  "lon": -38.5427107,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "PraÃ§a OtÃ¡vio Bonfim / Esquina Rua Justiniano de SerpaPraÃ§a OtÃ¡vio Bonfim",
+    "name": "PraÃ§a OtÃ¡vio Bonfim",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597257,
+  "lat": -3.7331483,
+  "lon": -38.5322037,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "PraÃ§a da Bandeira na Meton de Alencar oposto a Faculdade de Direito / Esquina Rua General Sampaio",
+    "name": "PraÃ§a da Bandeira",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597258,
+  "lat": -3.7426466,
+  "lon": -38.5375626,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Rua Waldery Uchoa 2861 / Esquina Avenida 13 de MaioPraÃ§a da GentilÃ¢ndia",
+    "name": "PraÃ§a da GentilÃ¢ndia",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597259,
+  "lat": -3.7457606,
+  "lon": -38.5017259,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Avenida AntÃ´nio Sales na PraÃ§a da Imprensa / Esquina Avenida Desembargador MoreiraPraÃ§a da Imprensa",
+    "name": "PraÃ§a da Imprensa",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597260,
+  "lat": -3.7403106,
+  "lon": -38.4985887,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "PraÃ§a General Eldoro Correia na Rua Barbosa de Freitas 500 / Esquina Av. Padre AntÃ´nio TomÃ¡s",
+    "name": "PraÃ§a das Flores",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597261,
+  "lat": -3.7275177,
+  "lon": -38.5272976,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "PraÃ§a do Ferreira na Rua Floriano Peixoto 625 / Esquina Rua Pedro Borges",
+    "name": "PraÃ§a do Ferreira",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597262,
+  "lat": -3.7397020,
+  "lon": -38.5563880,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Rua Dom Lino 590 / Esquina Avenida Jovita Feitosa lateral da Secretaria Regional 3",
+    "name": "Regional 3",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597263,
+  "lat": -3.7414294,
+  "lon": -38.5393982,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Avenida da Universidade 2854 / Esquina Av. 13 de MaioUFC",
+    "name": "Reitoria UFC",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597264,
+  "lat": -3.7577630,
+  "lon": -38.5316370,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "s/n",
+    "addr:street": "Rua Deputado Oswaldo Studart",
+    "addr:suburb": "FÃ¡tima",
+    "amenity": "bicycle_rental",
+    "capacity": "14",
+    "description": "Avenida Deputado Oswaldo Studart 1630 (Terminal RodoviÃ¡rio Engenheiro JosÃ© ThomÃ©) / Esquina Avenida Borges de Melo",
+    "name": "EstaÃ§Ã£o de Bicicletas da RodoviÃ¡ria de Fortaleza",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597265,
+  "lat": -3.7368529,
+  "lon": -38.5097190,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Rua Rui Barbosa em frente ao SENAC / Esquina Rua JoÃ£o CarvalhoSENAC",
+    "name": "Rui Barbosa",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597266,
+  "lat": -3.7336233,
+  "lon": -38.4969522,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "PraÃ§a Portugal, na calÃ§ada em frente a canteiro do Shopping Aldeota / Esquina Avenida Dom LuÃ­s",
+    "name": "Shopping Aldeota",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597267,
+  "lat": -3.7388161,
+  "lon": -38.5395130,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Rua Juvenal Galeno lateral do Shopping Benfica / Esquina Avenida CarapinimaShopping Benfica",
+    "name": "Shopping Benfica",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597268,
+  "lat": -3.7366621,
+  "lon": -38.4968233,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Avenida Santos Dumont 3131 (Shopping del Paseo) / Esquina Rua Leonardo MotaShopping Del Paseo",
+    "name": "Shopping Del Paseo",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597269,
+  "lat": -3.7387010,
+  "lon": -38.4851770,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Rua Pereira de Miranda em frente ao Terminal do Papicu / PrÃ³ximo Ã  Avenida Almirante Henrique SabÃ³iaTerminal de Papicu",
+    "name": "Terminal do Papicu",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597270,
+  "lat": -3.7371339,
+  "lon": -38.5019149,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Rua Joaquim Nabuco em frente ao EdifÃ­cio Embratel / Esquina Rua Torres CÃ¢maraEdifÃ­cio Embratel",
+    "name": "Torres CÃ¢mara",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597271,
+  "lat": -3.7307919,
+  "lon": -38.5148730,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Avenida Santos Dumont / Esquina Rua JoÃ£o CordeiroUNIMED",
+    "name": "UNIMED",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3833597272,
+  "lat": -3.7354169,
+  "lon": -38.5634270,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Avenida Bezerra de Menezes 2080 / Esquina Rua Eduardo Barros LealEsquina com a Rua Eduardo Barros Leal",
+    "name": "Ã‰rico Mota",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3836270775,
+  "lat": -3.9750978,
+  "lon": -38.7077791,
+  "tags": {
+    "amenity": "fuel"
+  }
+},
+{
+  "type": "node",
+  "id": 3837210438,
+  "lat": -4.1175490,
+  "lon": -38.4889717,
+  "tags": {
+    "amenity": "fuel"
+  }
+},
+{
+  "type": "node",
+  "id": 3837251757,
+  "lat": -4.1346683,
+  "lon": -38.4810513,
+  "tags": {
+    "addr:city": "Horizonte",
+    "amenity": "fuel",
+    "brand": "Shell",
+    "fuel:cng": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3837251758,
+  "lat": -4.1350897,
+  "lon": -38.4809285,
+  "tags": {
+    "amenity": "fuel",
+    "brand": "Shell",
+    "fuel:diesel": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3838213748,
+  "lat": -4.1244311,
+  "lon": -38.4863383,
+  "tags": {
+    "amenity": "fuel"
+  }
+},
+{
+  "type": "node",
+  "id": 3839740962,
+  "lat": -4.0945752,
+  "lon": -38.4870034,
+  "tags": {
+    "amenity": "fuel",
+    "name": "Posto"
+  }
+},
+{
+  "type": "node",
+  "id": 3886657481,
+  "lat": -3.8552777,
+  "lon": -38.4963917,
+  "tags": {
+    "amenity": "fuel",
+    "brand": "Shell"
+  }
+},
+{
+  "type": "node",
+  "id": 3886657482,
+  "lat": -3.8925883,
+  "lon": -38.5026597,
+  "tags": {
+    "amenity": "fuel",
+    "name": "Posto Petri Pneus"
+  }
+},
+{
+  "type": "node",
+  "id": 3886657483,
+  "lat": -3.9717125,
+  "lon": -38.5149375,
+  "tags": {
+    "amenity": "fuel"
+  }
+},
+{
+  "type": "node",
+  "id": 3886657484,
+  "lat": -4.0371197,
+  "lon": -38.5100696,
+  "tags": {
+    "amenity": "fuel",
+    "brand": "sp"
+  }
+},
+{
+  "type": "node",
+  "id": 3886657485,
+  "lat": -4.0607705,
+  "lon": -38.5043754,
+  "tags": {
+    "amenity": "fuel",
+    "brand": "Shell"
+  }
+},
+{
+  "type": "node",
+  "id": 3886657486,
+  "lat": -4.1029005,
+  "lon": -38.5000706,
+  "tags": {
+    "amenity": "fuel"
+  }
+},
+{
+  "type": "node",
+  "id": 3942728556,
+  "lat": -3.7601525,
+  "lon": -38.5857518,
+  "tags": {
+    "amenity": "fuel"
+  }
+},
+{
+  "type": "node",
+  "id": 3942729157,
+  "lat": -3.7634837,
+  "lon": -38.5874101,
+  "tags": {
+    "amenity": "fuel"
+  }
+},
+{
+  "type": "node",
+  "id": 3942729158,
+  "lat": -3.7656753,
+  "lon": -38.5871168,
+  "tags": {
+    "amenity": "fuel"
+  }
+},
+{
+  "type": "node",
+  "id": 3942729159,
+  "lat": -3.7741967,
+  "lon": -38.5875239,
+  "tags": {
+    "amenity": "fuel"
+  }
+},
+{
+  "type": "node",
+  "id": 3942729160,
+  "lat": -3.7765682,
+  "lon": -38.6065436,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "200",
+    "addr:street": "Rua JosÃ© Torres",
+    "addr:suburb": "Granja Portugal",
+    "amenity": "fuel",
+    "name": "Posto BR Mania (Granja Portugal)"
+  }
+},
+{
+  "type": "node",
+  "id": 3942729161,
+  "lat": -3.7781928,
+  "lon": -38.5965499,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:street": "Rua Vital Brasil",
+    "addr:suburb": "Granja Portugal",
+    "amenity": "fuel",
+    "name": "Posto SP (Granja Portugal)"
+  }
+},
+{
+  "type": "node",
+  "id": 3942729162,
+  "lat": -3.7797277,
+  "lon": -38.5913774,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "s/n",
+    "addr:street": "Rua Vital Brasil",
+    "addr:suburb": "Bonsucesso",
+    "amenity": "fuel",
+    "name": "Posto BR (Bonsucesso)"
+  }
+},
+{
+  "type": "node",
+  "id": 3942729163,
+  "lat": -3.7802624,
+  "lon": -38.5918331,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "1200",
+    "addr:street": "Rua EmÃ­lio de Menezes",
+    "addr:suburb": "Bonsucesso",
+    "amenity": "fuel",
+    "name": "Posto SP (Bonsucesso)"
+  }
+},
+{
+  "type": "node",
+  "id": 3942729166,
+  "lat": -3.7860599,
+  "lon": -38.5980724,
+  "tags": {
+    "amenity": "fuel"
+  }
+},
+{
+  "type": "node",
+  "id": 3942729168,
+  "lat": -3.7915254,
+  "lon": -38.5887421,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "835",
+    "addr:street": "Rua LuÃ­s Vieira (Perimetral)",
+    "addr:suburb": "Parque Dois IrmÃ£os",
+    "amenity": "fuel",
+    "name": "Posto Carioca"
+  }
+},
+{
+  "type": "node",
+  "id": 3942729169,
+  "lat": -3.7923884,
+  "lon": -38.5948497,
+  "tags": {
+    "amenity": "fuel"
+  }
+},
+{
+  "type": "node",
+  "id": 3942729170,
+  "lat": -3.7945374,
+  "lon": -38.5926952,
+  "tags": {
+    "amenity": "fuel"
+  }
+},
+{
+  "type": "node",
+  "id": 3942753680,
+  "lat": -3.7723147,
+  "lon": -38.5977248,
+  "tags": {
+    "amenity": "fuel"
+  }
+},
+{
+  "type": "node",
+  "id": 3969333099,
+  "lat": -3.7280311,
+  "lon": -38.5279046,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "12",
+    "covered": "no",
+    "description": "Paraciclos do tipo \"u\" invertido patrocinados pela CDL. Uso gratuito.",
+    "name": "PraÃ§a do Ferreira"
+  }
+},
+{
+  "type": "node",
+  "id": 3978749628,
+  "lat": -3.7575985,
+  "lon": -38.5329969,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "14",
+    "description": "Rua Moreira Gomes, em frente ao PrÃ©dio da OI â€“ CONTAX / Esquina Avenida Borges de Melo",
+    "name": "Contax Borges de Melo",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3978749629,
+  "lat": -3.7394664,
+  "lon": -38.5212452,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Avenida AntÃ´nio Sales, 147 / Esquina Rua Henrique RabÃªlo",
+    "name": "Salesiano Dom Bosco",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 3984550035,
+  "lat": -3.8825261,
+  "lon": -38.5017804,
+  "tags": {
+    "amenity": "fuel",
+    "name": "Posto SÃ£o CristÃ³vÃ£o"
+  }
+},
+{
+  "type": "node",
+  "id": 4055130773,
+  "lat": -3.7424157,
+  "lon": -38.5118520,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "10",
+    "covered": "no",
+    "name": "BicicletÃ¡rio Ãšrbici / Skina Center"
+  }
+},
+{
+  "type": "node",
+  "id": 4060084900,
+  "lat": -3.7361010,
+  "lon": -38.4907097,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "8",
+    "covered": "no",
+    "description": "BicicletÃ¡rio ao ar livre, do tipo \"u\" invertido.",
+    "name": "BicicletÃ¡rio PÃ¡tio Dom LuÃ­s"
+  }
+},
+{
+  "type": "node",
+  "id": 4060117271,
+  "lat": -3.7353118,
+  "lon": -38.4916347,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "8",
+    "covered": "no",
+    "name": "BicicletÃ¡rio Le Pain Le Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 4193449878,
+  "lat": -3.7315395,
+  "lon": -38.4851113,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "1680",
+    "addr:street": "Rua Ana Bilhar",
+    "addr:suburb": "Varjota",
+    "name": "Sport & Bike",
+    "operator": "Gilberto",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 4196222585,
+  "lat": -3.7435252,
+  "lon": -38.5753326,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "14",
+    "covered": "yes",
+    "name": "Engenharia Civil"
+  }
+},
+{
+  "type": "node",
+  "id": 4198104196,
+  "lat": -3.7330030,
+  "lon": -38.4920294,
+  "tags": {
+    "access": "permissive",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "rack",
+    "capacity": "12",
+    "covered": "no",
+    "name": "Mercadinho SÃ£o Luiz"
+  }
+},
+{
+  "type": "node",
+  "id": 4201149583,
+  "lat": -3.7313649,
+  "lon": -38.5230590,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "14",
+    "covered": "no",
+    "name": "Parque PajeÃº",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4224562935,
+  "lat": -3.7301438,
+  "lon": -38.5047905,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "25",
+    "addr:street": "Rua Edgar Damasceno",
+    "addr:suburb": "Meireles",
+    "name": "RPM Bike Shop",
+    "phone": "+55 85 98847-7511",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 4224571254,
+  "lat": -3.7298279,
+  "lon": -38.4852090,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "267",
+    "addr:street": "Rua Coronel Manuel JesuÃ­no",
+    "addr:suburb": "Mucuripe",
+    "name": "Bicicletaria IRC",
+    "phone": "+55 85 3086-5532",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 4225603184,
+  "lat": -3.7319971,
+  "lon": -38.5254315,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "14",
+    "covered": "no",
+    "name": "Cidade das CrianÃ§as"
+  }
+},
+{
+  "type": "node",
+  "id": 4225655058,
+  "lat": -3.7451890,
+  "lon": -38.5375882,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "1134",
+    "addr:street": "Rua Marechal Deodoro",
+    "addr:suburb": "Benfica",
+    "name": "GT Ciclo",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 4225674469,
+  "lat": -3.7375646,
+  "lon": -38.5411973,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "2402",
+    "addr:street": "Rua Padre MororÃ³",
+    "addr:suburb": "Benfica",
+    "name": "Ciclo Benfica",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 4225989514,
+  "lat": -3.7282524,
+  "lon": -38.5452156,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "description": "Avenida JosÃ© Jatahy em frente a Mitsubishi no calÃ§adÃ£o Crasa / Esquina com a Travessa EpifÃ¢nio Leite",
+    "name": "CalÃ§adÃ£o Crasa",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 4225989515,
+  "lat": -3.7493925,
+  "lon": -38.4714966,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "description": "Canteiro central da Avenida Central prÃ³ximo ao Mini Mix Presentes / Esquina Alameda das Beneditas",
+    "name": "Cidade 2000",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 4225989516,
+  "lat": -3.7467184,
+  "lon": -38.4973946,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "description": "Rua Coronel Linhares lateral da FarmÃ¡cia Extrafarma / Esquina Avenida AntÃ´nio Sales",
+    "name": "Coronel Linhares",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 4225989517,
+  "lat": -3.7260306,
+  "lon": -38.5406723,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "description": "Rua Padre Ibiapina em frente ao SENAI / Esquina com a Rua JÃºlio Pinto",
+    "name": "FAMETRO",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 4225989518,
+  "lat": -3.7640657,
+  "lon": -38.4860344,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Rua Eliseu UchÃ´a Beco em frente Ã  FIC / Entre a Rua Firmino Rocha Aguiar e a Rua Romeu Aldigueri",
+    "name": "FIC Guararapes",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 4225989519,
+  "lat": -3.7362771,
+  "lon": -38.5314674,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "description": "Rua BarÃ£o do Rio Branco lateral do Power Turbo Pneus / Esquina Avenida Domingos OlÃ­mpio",
+    "name": "Faculdade LourenÃ§o Filho",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 4225989520,
+  "lat": -3.7311139,
+  "lon": -38.5283508,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "description": "Rua Floriano Peixoto oposto ao estacionamento Lup Park / Esquina Rua Pedro I",
+    "name": "Floriano Peixoto",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 4225989521,
+  "lat": -3.7473163,
+  "lon": -38.4703033,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "description": "Rua Doutor Francisco Matos em frente a PraÃ§a s/nome prÃ³ximo ao chafariz desativado / Esquina Rua Doutor Gilberto Studart",
+    "name": "Francisco Matos",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 4225989522,
+  "lat": -3.7742715,
+  "lon": -38.4818497,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "14",
+    "description": "Canteiro central da Av. Washington Soares / Esquina Rua OtacÃ­lio Mota",
+    "name": "EstaÃ§Ã£o de Bicicletas FÃ³rum",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 4225989523,
+  "lat": -3.7404568,
+  "lon": -38.4764748,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "description": "Rua AndrÃ© DallÂ´olio em frente ao Hospital Geral de Fortaleza / Esquina Rua Professor OtÃ¡vio Lobo",
+    "name": "EstaÃ§Ã£o HGF",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 4225989524,
+  "lat": -3.7415488,
+  "lon": -38.4813881,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "description": "Rua JÃºlio Azevedo em frente ao Mercadinhos SÃ£o Luiz / Esquina Avenida Santos Dumont",
+    "name": "JÃºlio Azevedo",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 4225989525,
+  "lat": -3.7236533,
+  "lon": -38.5413361,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "description": "Avenida Filomeno Gomes oposto ao nÃºmero 100 (Padaria PÃ£o da PraÃ§a) / Em frente a PraÃ§a Gustavo Barroso",
+    "name": "Liceu do CearÃ¡",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 4225989526,
+  "lat": -3.7427628,
+  "lon": -38.4784279,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "description": "Avenida Santos Dumont 6050 / Entre a Rua Professor OtÃ¡vio Lobo e a Rua Batista de Oliveira",
+    "name": "OtÃ¡vio Lobo",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 4225989527,
+  "lat": -3.7463129,
+  "lon": -38.4799538,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "description": "Rua Professor OtÃ¡vio Lobo oposto ao PortugÃ¡lia Shopping / Esquina Avenida Padre AntÃ´nio TomÃ¡s",
+    "name": "EstaÃ§Ã£o PortugÃ¡lia",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 4225989528,
+  "lat": -3.7454786,
+  "lon": -38.4758186,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "description": "Rua Almeida Prado no estacionamento da PraÃ§a Martins Dourado / Esquina Rua Doutor Gilberto Studart",
+    "name": "PraÃ§a Martins Dourado",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 4225989529,
+  "lat": -3.7630906,
+  "lon": -38.4831238,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Avenida Washington Soares no acesso a Passarela de Pedestres oposto ao Centro de Eventos do CearÃ¡ / Esquina Rua Firmino Rocha Aguiar",
+    "name": "Salinas",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 4225989530,
+  "lat": -3.7436466,
+  "lon": -38.4955482,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "description": "Rua Vicente Linhares lateral ColÃ©gio Santa CecÃ­lia / Esquina com a Avenida Senador VirgÃ­lio TÃ¡vora",
+    "name": "Santa CecÃ­lia",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 4225989531,
+  "lat": -3.7579317,
+  "lon": -38.4883347,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "21",
+    "description": "Avenida Coronel Miguel Dias lateral do Shopping Ouro Verde / Esquina com a Avenida Washington Soares",
+    "name": "EstaÃ§Ã£o de Bicicletas Shopping Iguatemi",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 4225989532,
+  "lat": -3.7417049,
+  "lon": -38.4733200,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "description": "Rua Des. Lauro Nogueira em frente ao Shopping Rio Mar / Oposto ao Coelce - SubestaÃ§Ã£o Papicu",
+    "name": "EstaÃ§Ã£o de Bicicletas Shopping RioMar",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 4225989533,
+  "lat": -3.7712493,
+  "lon": -38.4819412,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "21",
+    "description": "Canteiro Central da Avenida Washington Soares prÃ³ximo a UNIFOR / Esquina com a Avenida Doutor Valmir Ponte",
+    "name": "EstaÃ§Ã£o de Bicicletas Unifor",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 4228511568,
+  "lat": -3.7767100,
+  "lon": -38.5634326,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "50",
+    "name": "Terminal Parangaba",
+    "network": "Bicicleta Integrada",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 4228583027,
+  "lat": -3.7579262,
+  "lon": -38.4836298,
+  "tags": {
+    "access": "permissive",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "32",
+    "covered": "yes",
+    "name": "Leroy Merlin"
+  }
+},
+{
+  "type": "node",
+  "id": 4228585384,
+  "lat": -3.7553604,
+  "lon": -38.4899324,
+  "tags": {
+    "access": "permissive",
+    "amenity": "bicycle_parking",
+    "covered": "yes",
+    "name": "Shopping Iguatemi"
+  }
+},
+{
+  "type": "node",
+  "id": 4228800830,
+  "lat": -3.7392582,
+  "lon": -38.5904829,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "5142",
+    "addr:street": "Avenida Mister Hull",
+    "addr:suburb": "AntÃ´nio Bezerra",
+    "name": "Ciclo PeÃ§as TimbÃ³",
+    "phone": "+55 85 3235-5019",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 4228830551,
+  "lat": -3.7303407,
+  "lon": -38.5764291,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "3980",
+    "addr:street": "Avenida Sargento Herminio Sampaio",
+    "addr:suburb": "Padre Andrade",
+    "name": "Santana Ciclo",
+    "phone": "+55 85 98555-5286",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 4228843489,
+  "lat": -3.7270710,
+  "lon": -38.5649098,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "2732",
+    "addr:street": "Avenida Sargento Herminio Sampaio",
+    "addr:suburb": "Vila Ellery",
+    "name": "Jonas Ciclo",
+    "phone": "+55 85 98821-9628",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 4229161613,
+  "lat": -3.7754035,
+  "lon": -38.6060793,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "1528",
+    "addr:street": "Avenida A",
+    "addr:suburb": "Conjunto CearÃ¡",
+    "name": "Kaciclista PeÃ§as (Conjunto CearÃ¡)",
+    "phone": "+55 85 3294-3097 / 3025-5231",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 4229176199,
+  "lat": -3.7765788,
+  "lon": -38.6141880,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "3615",
+    "addr:street": "Rua Sousa Carvalho",
+    "addr:suburb": "Granja Lisboa",
+    "name": "Universo Paralelo",
+    "phone": "+55 \t 85 3016-2380 / 98843-9946",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 4229180338,
+  "lat": -3.7807981,
+  "lon": -38.5910521,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "1065",
+    "addr:street": "Rua EmÃ­lio de Menezes",
+    "addr:suburb": "Bonsucesso",
+    "name": "Cabiludo Ciclo",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 4229183284,
+  "lat": -3.7821510,
+  "lon": -38.5830993,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "216",
+    "addr:street": "Rua Vital Brasil",
+    "addr:suburb": "Bonsucesso",
+    "name": "Brasil Bike",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 4229190928,
+  "lat": -3.7811566,
+  "lon": -38.5801427,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "1710 A",
+    "addr:street": "Avenida Augusto dos Anjos",
+    "addr:suburb": "Bonsucesso",
+    "name": "Nonato Ciclo",
+    "phone": "+55 85 3292-1132 / 98891-5810",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 4230573112,
+  "lat": -3.7908196,
+  "lon": -38.5887720,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "944",
+    "addr:street": "Rua LuÃ­s Vieira",
+    "addr:suburb": "Vila Peri",
+    "name": "CiclopeÃ§as Maydany",
+    "phone": "+55 85 3292-1331",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 4230573113,
+  "lat": -3.7911592,
+  "lon": -38.5891101,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "3454",
+    "addr:street": "Avenida General OsÃ³rio de Paiva",
+    "addr:suburb": "Vila Peri",
+    "name": "Mota Ciclo",
+    "phone": "+55 85 3484-4526 / 85 3484-4985",
+    "shop": "bicycle",
+    "website": "fb.com/MotaCiclo"
+  }
+},
+{
+  "type": "node",
+  "id": 4230577715,
+  "lat": -3.7895903,
+  "lon": -38.5870793,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "shed",
+    "capacity": "38",
+    "covered": "yes",
+    "maxstay": "48h",
+    "name": "EstaÃ§Ã£o de Bicicletas (Terminal Siqueira)",
+    "opening_hours": "04:00-22:00",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 4230590434,
+  "lat": -3.7671858,
+  "lon": -38.4871812,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "4",
+    "covered": "no",
+    "name": "Canteiro Central"
+  }
+},
+{
+  "type": "node",
+  "id": 4230590435,
+  "lat": -3.7675648,
+  "lon": -38.4865290,
+  "tags": {
+    "access": "permissive",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "12",
+    "covered": "no",
+    "name": "Ayo Fitness Club"
+  }
+},
+{
+  "type": "node",
+  "id": 4234199311,
+  "lat": -3.7472938,
+  "lon": -38.5757012,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "covered": "yes",
+    "name": "Campos do Pici"
+  }
+},
+{
+  "type": "node",
+  "id": 4234208803,
+  "lat": -3.8722937,
+  "lon": -38.6112979,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "name": "IFCE MaracanaÃº"
+  }
+},
+{
+  "type": "node",
+  "id": 4243040829,
+  "lat": -3.7555065,
+  "lon": -38.5081045,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "1295",
+    "addr:street": "Rua Monsenhor Salazar",
+    "addr:suburb": "SÃ£o JoÃ£o do Tauape",
+    "name": "Ciclomar PeÃ§as",
+    "phone": "+55 85 3272-3746",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 4243856721,
+  "lat": -3.7484786,
+  "lon": -38.5032416,
+  "tags": {
+    "access": "customers",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "4",
+    "covered": "no",
+    "name": "Casa de MoÃ¡"
+  }
+},
+{
+  "type": "node",
+  "id": 4248789526,
+  "lat": -3.7835238,
+  "lon": -38.4819466,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "12",
+    "covered": "yes",
+    "name": "EstaÃ§Ã£o de Bicicletas Reserva Open Mall"
+  }
+},
+{
+  "type": "node",
+  "id": 4249275542,
+  "lat": -3.7325823,
+  "lon": -38.5044595,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "2155 - loja 3",
+    "addr:street": "Rua Costa Barros",
+    "addr:suburb": "Aldeota",
+    "name": "Casa do Ciclista",
+    "phone": "+55 85 3224-7194",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 4249278631,
+  "lat": -3.7296935,
+  "lon": -38.5090588,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "1554",
+    "addr:street": "Rua Pereira Filgueiras",
+    "addr:suburb": "Aldeota",
+    "name": "JoÃ£o Ciclo",
+    "phone": "+55 85 3248-8304",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 4249504990,
+  "lat": -3.7446812,
+  "lon": -38.4960856,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "848",
+    "addr:street": "Rua General Tertuliano Potiguara",
+    "addr:suburb": "Aldeota",
+    "name": "Clara PeÃ§as",
+    "phone": "+55 85 98631-2397",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 4249508130,
+  "lat": -3.7443452,
+  "lon": -38.5214528,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "81",
+    "addr:street": "Rua Pinho Pessoa",
+    "addr:suburb": "Joaquim TÃ¡vora",
+    "name": "Amiguinho",
+    "phone": "+55 85 3252-4442",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 4254609507,
+  "lat": -3.7461099,
+  "lon": -38.4890114,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "12",
+    "covered": "no",
+    "name": "BicicletÃ¡rio Mercadinhos SÃ£o Luiz"
+  }
+},
+{
+  "type": "node",
+  "id": 4262975299,
+  "lat": -3.7510909,
+  "lon": -38.4700884,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "195",
+    "addr:street": "Alameda Santa MarÃ¡",
+    "addr:suburb": "Cidade 2000",
+    "name": "Ciclo Adventure Fortaleza",
+    "phone": "+55 85 3249-3636",
+    "shop": "bicycle",
+    "website": "http://cicloadventurefortaleza.com.br/"
+  }
+},
+{
+  "type": "node",
+  "id": 4263187386,
+  "lat": -3.7765686,
+  "lon": -38.5873737,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "235",
+    "addr:street": "Rua Anselmo Nogueira",
+    "addr:suburb": "Bonsucesso",
+    "name": "Sinal Verde para o Ciclista - loja 2",
+    "phone": "+55 85 3290-1280",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 4263187387,
+  "lat": -3.7766424,
+  "lon": -38.5875885,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "270",
+    "addr:street": "Rua Anselmo Nogueira",
+    "addr:suburb": "Bonsucesso",
+    "name": "Ciclovias Cordeiro",
+    "phone": "+55 85 3233-2273 / 98828-9918",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 4263192253,
+  "lat": -3.7672159,
+  "lon": -38.5843928,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "400",
+    "addr:street": "Avenida Porto Velho",
+    "addr:suburb": "Henrique Jorge",
+    "name": "Bazar dos Ciclistas",
+    "phone": "+55 \t 85 3290-6402",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 4263195494,
+  "lat": -3.7637951,
+  "lon": -38.5793818,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "731",
+    "addr:street": "Avenida Senador Fernandes TÃ¡vora",
+    "addr:suburb": "JÃ³quei Clube",
+    "name": "Maia Ciclo",
+    "phone": "+55 85 3484-4873 / 98834-6761",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 4263211045,
+  "lat": -3.7755995,
+  "lon": -38.5648928,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "124",
+    "addr:street": "Avenida CÃ´nego de Castro",
+    "addr:suburb": "Parangaba",
+    "name": "Crisciclo",
+    "phone": "+55 85 3224-2828",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 4263211046,
+  "lat": -3.7757420,
+  "lon": -38.5644976,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "137",
+    "addr:street": "Rua Eduardo PerdigÃ£o",
+    "addr:suburb": "Parangaba",
+    "name": "CicloDias",
+    "phone": "+55 85 3225-6228",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 4263222550,
+  "lat": -3.7515027,
+  "lon": -38.5674404,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "282",
+    "addr:street": "Rua EspÃ­rito Santo",
+    "addr:suburb": "Panamericano",
+    "name": "UTI das Bicicletas",
+    "phone": "+55 85 3482-8536 / 98726-9754",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 4263231431,
+  "lat": -3.7452956,
+  "lon": -38.5610346,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "954",
+    "addr:street": "Rua Ã‰rico Mota",
+    "addr:suburb": "Amadeu Furtado",
+    "name": "JA Ciclo",
+    "phone": "+55 85 98791-4615",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 4263251919,
+  "lat": -3.7470056,
+  "lon": -38.5568462,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "1182",
+    "addr:street": "Rua Francisca Clotilde",
+    "addr:suburb": "Rodolfo TeÃ³filo",
+    "name": "FalcÃ£o Ciclo",
+    "phone": "+55 85 98781-9590",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 4270037929,
+  "lat": -3.7686729,
+  "lon": -38.4811028,
+  "tags": {
+    "access": "permissive",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "12",
+    "covered": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4270037930,
+  "lat": -3.7698381,
+  "lon": -38.4817162,
+  "tags": {
+    "access": "permissive",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "12",
+    "covered": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4270037931,
+  "lat": -3.7712023,
+  "lon": -38.4807652,
+  "tags": {
+    "access": "permissive",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "12",
+    "covered": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4296832690,
+  "lat": -3.7370288,
+  "lon": -38.4969730,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "3130",
+    "addr:street": "Avenida Santos Dumont",
+    "addr:suburb": "Aldeota",
+    "name": "Urbana Bike Shop",
+    "phone": "+55 85 3224-9205 / 98811-6906",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 4300576596,
+  "lat": -3.7387836,
+  "lon": -38.4848555,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "shed",
+    "capacity": "26",
+    "covered": "yes",
+    "maxstay": "48h",
+    "name": "Terminal Papicu",
+    "opening_hours": "04:00-22:00",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 4309962485,
+  "lat": -3.7357247,
+  "lon": -38.4968376,
+  "tags": {
+    "access": "permissive",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "24",
+    "covered": "no",
+    "name": "BicicletÃ¡rio Del Paseo"
+  }
+},
+{
+  "type": "node",
+  "id": 4313207578,
+  "lat": -3.7728115,
+  "lon": -38.6079985,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "shed",
+    "capacity": "40",
+    "covered": "yes",
+    "maxstay": "48h",
+    "name": "Terminal Conjunto CearÃ¡",
+    "opening_hours": "4:00-22:00",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 4344504281,
+  "lat": -3.7359452,
+  "lon": -38.5325782,
+  "tags": {
+    "amenity": "fuel"
+  }
+},
+{
+  "type": "node",
+  "id": 4350839161,
+  "lat": -3.7262319,
+  "lon": -38.4891663,
+  "tags": {
+    "amenity": "fuel"
+  }
+},
+{
+  "type": "node",
+  "id": 4366351809,
+  "lat": -3.7387324,
+  "lon": -38.4849937,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "50",
+    "name": "Terminal Papicu",
+    "network": "Bicicleta Integrada",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 4371338070,
+  "lat": -3.7314875,
+  "lon": -38.4912796,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "8",
+    "covered": "no",
+    "name": "EspaÃ§o Meireles"
+  }
+},
+{
+  "type": "node",
+  "id": 4375642208,
+  "lat": -3.7331719,
+  "lon": -38.4976714,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "6",
+    "covered": "no",
+    "name": "PraÃ§a Portugal",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 4385160562,
+  "lat": -3.7429751,
+  "lon": -38.5288038,
+  "tags": {
+    "amenity": "fuel"
+  }
+},
+{
+  "type": "node",
+  "id": 4385246512,
+  "lat": -3.7319317,
+  "lon": -38.5070617,
+  "tags": {
+    "access": "permissive",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "10",
+    "covered": "no",
+    "name": "Centro Empresarial Consorte"
+  }
+},
+{
+  "type": "node",
+  "id": 4392042990,
+  "lat": -3.7327777,
+  "lon": -38.4974987,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "8",
+    "covered": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4392042991,
+  "lat": -3.7329022,
+  "lon": -38.4970404,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "8",
+    "covered": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4396194378,
+  "lat": -3.7877634,
+  "lon": -38.5038441,
+  "tags": {
+    "amenity": "fuel"
+  }
+},
+{
+  "type": "node",
+  "id": 4396231200,
+  "lat": -3.8154126,
+  "lon": -38.4814104,
+  "tags": {
+    "amenity": "fuel"
+  }
+},
+{
+  "type": "node",
+  "id": 4396288739,
+  "lat": -3.8111175,
+  "lon": -38.5106286,
+  "tags": {
+    "amenity": "fuel"
+  }
+},
+{
+  "type": "node",
+  "id": 4396343172,
+  "lat": -3.8030741,
+  "lon": -38.5282066,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "5555",
+    "addr:street": "Avenida Silas Munguba (DedÃ© Brasil)",
+    "addr:suburb": "CastelÃ£o",
+    "amenity": "fuel",
+    "name": "Posto PassarÃ©"
+  }
+},
+{
+  "type": "node",
+  "id": 4396343178,
+  "lat": -3.7894759,
+  "lon": -38.5423406,
+  "tags": {
+    "amenity": "fuel"
+  }
+},
+{
+  "type": "node",
+  "id": 4396367250,
+  "lat": -3.7840262,
+  "lon": -38.5534652,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "1555",
+    "addr:street": "Avenida Doutor Silas Munguba (DedÃ© Brasil)",
+    "addr:suburb": "Serrinha",
+    "amenity": "fuel",
+    "name": "Posto Shell Bela Vista (Serrinha)"
+  }
+},
+{
+  "type": "node",
+  "id": 4396367251,
+  "lat": -3.7824791,
+  "lon": -38.5558092,
+  "tags": {
+    "amenity": "fuel"
+  }
+},
+{
+  "type": "node",
+  "id": 4404914371,
+  "lat": -3.7899081,
+  "lon": -38.5873781,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "50",
+    "description": "Endereco: Avenida General OsÃ³rio de Paiva, em frente ao Terminal do Siqueira / Esquina Rua Raimundo Neri",
+    "name": "EstaÃ§Ã£o de Bicicletas (Terminal Siqueira)",
+    "network": "Bicicleta Integrada",
+    "note": "verificar posiÃ§Ã£o exata",
+    "operator": "Prefeitura Municipal de Fortaleza",
+    "website": "http://www.bicicletaintegrada.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4413044184,
+  "lat": -3.7544576,
+  "lon": -38.5333172,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "721",
+    "addr:street": "Avenida Luciano Carneiro",
+    "addr:suburb": "FÃ¡tima",
+    "amenity": "fuel",
+    "name": "Posto BR (Luciano Carneiro)"
+  }
+},
+{
+  "type": "node",
+  "id": 4413047790,
+  "lat": -3.7656110,
+  "lon": -38.5370677,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "1990",
+    "addr:street": "Avenida Luciano Carneiro",
+    "addr:suburb": "Vila UniÃ£o",
+    "amenity": "fuel",
+    "name": "Posto Shell (Vila UniÃ£o)"
+  }
+},
+{
+  "type": "node",
+  "id": 4417587108,
+  "lat": -3.7551558,
+  "lon": -38.5517198,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "4901",
+    "addr:street": "Avenida JoÃ£o Pessoa",
+    "addr:suburb": "Damas",
+    "amenity": "fuel",
+    "name": "Posto Ipiranga (JoÃ£o Pessoa)"
+  }
+},
+{
+  "type": "node",
+  "id": 4418226878,
+  "lat": -4.1922090,
+  "lon": -38.1700124,
+  "tags": {
+    "amenity": "fuel",
+    "name": "SP"
+  }
+},
+{
+  "type": "node",
+  "id": 4418228550,
+  "lat": -4.0235166,
+  "lon": -38.3161564,
+  "tags": {
+    "amenity": "fuel",
+    "name": "Shell"
+  }
+},
+{
+  "type": "node",
+  "id": 4418228552,
+  "lat": -3.9435461,
+  "lon": -38.3881675,
+  "tags": {
+    "amenity": "fuel"
+  }
+},
+{
+  "type": "node",
+  "id": 4418228553,
+  "lat": -3.9164635,
+  "lon": -38.3881634,
+  "tags": {
+    "amenity": "fuel",
+    "name": "SP"
+  }
+},
+{
+  "type": "node",
+  "id": 4418229113,
+  "lat": -3.8465321,
+  "lon": -38.5763704,
+  "tags": {
+    "amenity": "fuel",
+    "name": "Petrobras"
+  }
+},
+{
+  "type": "node",
+  "id": 4418229115,
+  "lat": -3.8054423,
+  "lon": -38.6389069,
+  "tags": {
+    "amenity": "fuel",
+    "name": "Shell"
+  }
+},
+{
+  "type": "node",
+  "id": 4418229685,
+  "lat": -4.0112366,
+  "lon": -38.3244147,
+  "tags": {
+    "amenity": "fuel",
+    "name": "Posto ABN"
+  }
+},
+{
+  "type": "node",
+  "id": 4418230655,
+  "lat": -3.7215887,
+  "lon": -38.6596820,
+  "tags": {
+    "amenity": "fuel",
+    "name": "Petrobras"
+  }
+},
+{
+  "type": "node",
+  "id": 4418233809,
+  "lat": -3.7630784,
+  "lon": -38.6524103,
+  "tags": {
+    "amenity": "fuel"
+  }
+},
+{
+  "type": "node",
+  "id": 4418233810,
+  "lat": -3.7461465,
+  "lon": -38.6605474,
+  "tags": {
+    "amenity": "fuel",
+    "name": "Petrobras"
+  }
+},
+{
+  "type": "node",
+  "id": 4418233811,
+  "lat": -3.6578357,
+  "lon": -38.8124657,
+  "tags": {
+    "amenity": "fuel",
+    "name": "Shell"
+  }
+},
+{
+  "type": "node",
+  "id": 4418233812,
+  "lat": -3.6002033,
+  "lon": -38.9766922,
+  "tags": {
+    "amenity": "fuel",
+    "name": "Petrobras"
+  }
+},
+{
+  "type": "node",
+  "id": 4418234204,
+  "lat": -3.6017454,
+  "lon": -38.9634399,
+  "tags": {
+    "amenity": "fuel",
+    "name": "SP"
+  }
+},
+{
+  "type": "node",
+  "id": 4419015550,
+  "lat": -3.7712356,
+  "lon": -38.4817894,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "10",
+    "covered": "no",
+    "name": "EstaÃ§Ã£o de Bicicletas Unifor"
+  }
+},
+{
+  "type": "node",
+  "id": 4419015551,
+  "lat": -3.7683627,
+  "lon": -38.4820398,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "10",
+    "covered": "no",
+    "note": "verificar localizaÃ§Ã£o exata"
+  }
+},
+{
+  "type": "node",
+  "id": 4419059879,
+  "lat": -3.8319932,
+  "lon": -38.5012593,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "50",
+    "description": "Endereco: Avenida Jornalista Tomaz Coelho, em frente ao Terminal de Messejana",
+    "name": "Terminal Messejana",
+    "network": "Bicicleta Integrada",
+    "note": "verificar localizaÃ§Ã£o exata",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 4419064467,
+  "lat": -3.8338371,
+  "lon": -38.4939013,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "687",
+    "addr:street": "Rua Padre Pedro de Alencar",
+    "addr:suburb": "Messejana",
+    "name": "Kaciclista Bike Shop - Messejana",
+    "opening_hours": "Mo-We 7:30-20:00; Tu 7:30-18:00; Th-Fr 7:30-18:00; Sa 8:00-4:00",
+    "phone": "+55 85 3489-1640",
+    "shop": "bicycle",
+    "website": "fb.com/kaciclistabikeshoppage"
+  }
+},
+{
+  "type": "node",
+  "id": 4419128646,
+  "lat": -3.7728817,
+  "lon": -38.6080241,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "50",
+    "name": "Terminal Conjunto CearÃ¡",
+    "network": "Bicicleta Integrada",
+    "note": "conferir localizaÃ§Ã£o exata",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 4423464659,
+  "lat": -3.8420007,
+  "lon": -38.5722485,
+  "tags": {
+    "amenity": "fuel"
+  }
+},
+{
+  "type": "node",
+  "id": 4424212847,
+  "lat": -3.7766382,
+  "lon": -38.5675218,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "621",
+    "addr:street": "Avenida General OsÃ³rio de Paiva",
+    "addr:suburb": "Parangaba",
+    "amenity": "fuel",
+    "name": "Posto Ipiranga Parangaba"
+  }
+},
+{
+  "type": "node",
+  "id": 4426498250,
+  "lat": -3.7489438,
+  "lon": -38.4992067,
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "6",
+    "covered": "no",
+    "name": "Nova AcrÃ³pole"
+  }
+},
+{
+  "type": "node",
+  "id": 4465039539,
+  "lat": -3.8127344,
+  "lon": -38.5723074,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "888",
+    "addr:street": "Avenida Presidente Costa e Silva (Perimetral)",
+    "addr:suburb": "Mondubim",
+    "amenity": "fuel",
+    "name": "Posto Vitoria"
+  }
+},
+{
+  "type": "node",
+  "id": 4466490848,
+  "lat": -3.8344109,
+  "lon": -38.5607576,
+  "tags": {
+    "amenity": "fuel",
+    "name": "Posto Ale (JosÃ© Walter) da Avenida F Arizona",
+    "name:pt": "Posto Arizona Comercial de Petroleo"
+  }
+},
+{
+  "type": "node",
+  "id": 4468258993,
+  "lat": -3.8218230,
+  "lon": -38.5352223,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:street": "Avenida Juscelino Kubitschek",
+    "addr:suburb": "PassarÃ©",
+    "amenity": "fuel",
+    "name": "Posto Shell",
+    "note": "Local sem nÃºmero"
+  }
+},
+{
+  "type": "node",
+  "id": 4469011082,
+  "lat": -3.8059061,
+  "lon": -38.5725545,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "3489",
+    "addr:street": "Avenida Godofredo Maciel",
+    "addr:suburb": "Maraponga",
+    "amenity": "fuel",
+    "name": "Posto Ale Maraponga Multiposto ItaiÃ§aba"
+  }
+},
+{
+  "type": "node",
+  "id": 4469521096,
+  "lat": -3.7979700,
+  "lon": -38.5706505,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "s/n",
+    "addr:street": "Avenida Godofredo Maciel",
+    "addr:suburb": "Maraponga",
+    "amenity": "fuel",
+    "name": "Posto SP (Maraponga)"
+  }
+},
+{
+  "type": "node",
+  "id": 4469521111,
+  "lat": -3.7962274,
+  "lon": -38.5701014,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "s/n",
+    "addr:street": "Avenida Godofredo Maciel",
+    "addr:suburb": "Maraponga",
+    "amenity": "fuel",
+    "name": "Posto BR (Maraponga)"
+  }
+},
+{
+  "type": "node",
+  "id": 4469976505,
+  "lat": -3.8067964,
+  "lon": -38.5607577,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "1585",
+    "addr:street": "Avenida Benjamin Brasil",
+    "addr:suburb": "Jardim Cearense",
+    "amenity": "fuel",
+    "name": "Posto RodÃ£o"
+  }
+},
+{
+  "type": "node",
+  "id": 4470316557,
+  "lat": -3.7755847,
+  "lon": -38.5646124,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:street": "Rua Eduardo PerdigÃ£o",
+    "addr:suburb": "Parangaba",
+    "name": "Crisciclo",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 4470365415,
+  "lat": -3.7717930,
+  "lon": -38.5694925,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "475",
+    "addr:street": "Rua CÃ¢ndido Holanda",
+    "addr:suburb": "Parangaba",
+    "amenity": "fuel",
+    "name": "Posto Ale Parangaba"
+  }
+},
+{
+  "type": "node",
+  "id": 4470649435,
+  "lat": -3.7868529,
+  "lon": -38.5672518,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "72",
+    "addr:street": "Rua Nereu Ramos",
+    "addr:suburb": "Parangaba",
+    "amenity": "fuel",
+    "name": "Posto BR (Parangaba / Maraponga)"
+  }
+},
+{
+  "type": "node",
+  "id": 4471947572,
+  "lat": -3.7692487,
+  "lon": -38.5547055,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "605",
+    "addr:street": "Rua 15 de Novembro",
+    "addr:suburb": "Montese",
+    "amenity": "fuel",
+    "name": "Posto BR Montese"
+  }
+},
+{
+  "type": "node",
+  "id": 4472084171,
+  "lat": -3.7720501,
+  "lon": -38.5619485,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "7100",
+    "addr:street": "Avenida JoÃ£o Pessoa",
+    "amenity": "fuel",
+    "name": "Posto SP SÃ£o Francisco (Parangaba)"
+  }
+},
+{
+  "type": "node",
+  "id": 4475772446,
+  "lat": -3.7867452,
+  "lon": -38.5492021,
+  "tags": {
+    "addr:street": "Avenida Doutor Silas Munguba (DedÃ© Brasil)",
+    "amenity": "fuel",
+    "name": "Posto Shell Lig (Serrinha PraÃ§a Cruz Grande)"
+  }
+},
+{
+  "type": "node",
+  "id": 4476004514,
+  "lat": -3.7882636,
+  "lon": -38.5469232,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "2970",
+    "addr:street": "Avenida Doutor Silas Munguba (DedÃ© Brasil)",
+    "addr:suburb": "Serrinha",
+    "amenity": "fuel",
+    "name": "Posto BR Tijuc II (Serrinha)"
+  }
+},
+{
+  "type": "node",
+  "id": 4476080666,
+  "lat": -3.8044896,
+  "lon": -38.5529670,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "9977",
+    "addr:street": "Avenida Bernardo Manuel",
+    "addr:suburb": "Parque Dois IrmÃ£os",
+    "amenity": "fuel",
+    "name": "Posto BR Vila (TÃªxtil Parque Dois IrmÃ£os)"
+  }
+},
+{
+  "type": "node",
+  "id": 4477509351,
+  "lat": -3.7772981,
+  "lon": -38.6213782,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "2487",
+    "addr:street": "Avenida H",
+    "addr:suburb": "Conjunto CearÃ¡",
+    "amenity": "fuel",
+    "name": "Posto SP Milenium (Conjunto CearÃ¡)"
+  }
+},
+{
+  "type": "node",
+  "id": 4477971990,
+  "lat": -3.7818023,
+  "lon": -38.6079771,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "1142",
+    "addr:street": "Rua 23 de Junho",
+    "addr:suburb": "Granja Lisboa",
+    "amenity": "fuel",
+    "name": "Posto Shell (Granja Lisboa)"
+  }
+},
+{
+  "type": "node",
+  "id": 4478095454,
+  "lat": -3.7879327,
+  "lon": -38.5860699,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "2818",
+    "addr:street": "Avenida General OsÃ³rio de Paiva",
+    "addr:suburb": "Bonsucesso",
+    "amenity": "fuel",
+    "name": "Posto Shell (Bonsucesso /Terminal Siqueira)"
+  }
+},
+{
+  "type": "node",
+  "id": 4478140024,
+  "lat": -3.7817727,
+  "lon": -38.5765524,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "1632",
+    "addr:street": "Avenida General OsÃ³rio de Paiva",
+    "addr:suburb": "Vila Peri",
+    "amenity": "fuel",
+    "name": "Posto Itamaraty"
+  }
+},
+{
+  "type": "node",
+  "id": 4478193789,
+  "lat": -3.8069837,
+  "lon": -38.5802430,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "200",
+    "addr:street": "Rua Waldir Diogo (Perimetral)",
+    "addr:suburb": "Mondubim",
+    "amenity": "fuel",
+    "name": "Posto Brisa Petroleo"
+  }
+},
+{
+  "type": "node",
+  "id": 4483176892,
+  "lat": -3.7654142,
+  "lon": -38.5415526,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "5159",
+    "addr:street": "Avenida dos ExpedicionÃ¡rios",
+    "addr:suburb": "Montese",
+    "amenity": "fuel",
+    "name": "Posto Shell Nota 10 (Montese)"
+  }
+},
+{
+  "type": "node",
+  "id": 4483180739,
+  "lat": -3.7574570,
+  "lon": -38.5390850,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "4474",
+    "addr:street": "Avenida dos ExpedicionÃ¡rios",
+    "addr:suburb": "Montese",
+    "amenity": "fuel",
+    "name": "Posto Ale (ExpedicionÃ¡rios)"
+  }
+},
+{
+  "type": "node",
+  "id": 4484295799,
+  "lat": -3.7645300,
+  "lon": -38.5482999,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "1413",
+    "addr:street": "Avenida Gomes de Matos",
+    "addr:suburb": "Montese",
+    "amenity": "fuel",
+    "name": "Posto SP Cananeia"
+  }
+},
+{
+  "type": "node",
+  "id": 4484374131,
+  "lat": -3.7626051,
+  "lon": -38.5470642,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "1166",
+    "addr:street": "Avenida Gomes de Matos",
+    "addr:suburb": "Montese",
+    "amenity": "fuel",
+    "name": "Posto Ipiranga (Montese)"
+  }
+},
+{
+  "type": "node",
+  "id": 4486159688,
+  "lat": -3.7611036,
+  "lon": -38.5453899,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "415",
+    "addr:street": "Avenida Gomes de Matos",
+    "addr:suburb": "Montese",
+    "amenity": "fuel",
+    "name": "Posto Ale (Montese)"
+  }
+},
+{
+  "type": "node",
+  "id": 4486204669,
+  "lat": -3.7548463,
+  "lon": -38.5403637,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "38",
+    "addr:street": "Avenida Gomes de Matos",
+    "addr:suburb": "Montese",
+    "amenity": "fuel",
+    "name": "Posto Del Rey"
+  }
+},
+{
+  "type": "node",
+  "id": 4493355758,
+  "lat": -3.7635068,
+  "lon": -38.5584752,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "6094",
+    "addr:street": "Avenida JoÃ£o Pessoa",
+    "addr:suburb": "Damas",
+    "amenity": "fuel",
+    "name": "Posto Ipiranga (Rua CearÃ¡)"
+  }
+},
+{
+  "type": "node",
+  "id": 4494489644,
+  "lat": -3.7603007,
+  "lon": -38.5641094,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "455",
+    "addr:street": "Avenida AmÃ©rico Barreira",
+    "addr:suburb": "DemÃ³crito Rocha",
+    "amenity": "fuel",
+    "name": "Posto BR (DemÃ³crito Rocha)"
+  }
+},
+{
+  "type": "node",
+  "id": 4495031630,
+  "lat": -3.7470079,
+  "lon": -38.5556282,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "2007",
+    "addr:street": "Rua Professor Costa Mendes",
+    "addr:suburb": "Rodolfo TeÃ³filo",
+    "amenity": "fuel",
+    "brand": "Shell",
+    "name": "Posto Shell"
+  }
+},
+{
+  "type": "node",
+  "id": 4495639556,
+  "lat": -3.7378768,
+  "lon": -38.5479244,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "464",
+    "addr:street": "Avenida Jovita Feitosa",
+    "addr:suburb": "ParquelÃ¢ndia",
+    "amenity": "fuel",
+    "name": "Posto BR FÃ³rmula (ParquelÃ¢ndia)"
+  }
+},
+{
+  "type": "node",
+  "id": 4520482066,
+  "lat": -4.2725442,
+  "lon": -38.6840691,
+  "tags": {
+    "amenity": "fuel",
+    "operator": "Shell"
+  }
+},
+{
+  "type": "node",
+  "id": 4520570060,
+  "lat": -4.1291489,
+  "lon": -38.4832747,
+  "tags": {
+    "amenity": "fuel",
+    "operator": "BR"
+  }
+},
+{
+  "type": "node",
+  "id": 4520570061,
+  "lat": -4.0990045,
+  "lon": -38.5021547,
+  "tags": {
+    "amenity": "fuel"
+  }
+},
+{
+  "type": "node",
+  "id": 4549148127,
+  "lat": -3.7389924,
+  "lon": -38.4969753,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "4",
+    "covered": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4585589499,
+  "lat": -3.7277727,
+  "lon": -38.5357334,
+  "tags": {
+    "access": "permissive",
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "777",
+    "addr:street": "Rua Princesa Isabel",
+    "addr:suburb": "Centro",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "2",
+    "covered": "no",
+    "name": "Bandeira Cabeleireiros"
+  }
+},
+{
+  "type": "node",
+  "id": 4588043189,
+  "lat": -3.8715465,
+  "lon": -38.6670056,
+  "tags": {
+    "addr:street": "Avenida Senador Almir Pinto 3006",
+    "amenity": "fuel",
+    "email": "erialdo.ultragas@hotmail.com",
+    "internet_access": "wlan",
+    "opening_hours": "Mo-Su 07:00-20:00",
+    "phone": "085986050172"
+  }
+},
+{
+  "type": "node",
+  "id": 4610643990,
+  "lat": -3.8501605,
+  "lon": -38.5087300,
+  "tags": {
+    "amenity": "fuel",
+    "note": "Existe este posto? Desconfio de ediÃ§Ã£o errada."
+  }
+},
+{
+  "type": "node",
+  "id": 4629321260,
+  "lat": -3.7258112,
+  "lon": -38.5823199,
+  "tags": {
+    "addr:city": "Fortaleza",
+    "addr:housenumber": "427",
+    "addr:street": "Rua Maria Clara",
+    "addr:suburb": "Barra do CearÃ¡",
+    "alt_name": "Casa das Bicicletas",
+    "name": "Oficina SÃ£o Francisco",
+    "phone": "+55 85 98693-0101 / 98712-9453",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 4723166750,
+  "lat": -3.7369034,
+  "lon": -38.5014833,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "4",
+    "covered": "no",
+    "name": "BicicletÃ¡rio Grupo Manga"
+  }
+},
+{
+  "type": "node",
+  "id": 4723196478,
+  "lat": -3.7511299,
+  "lon": -38.5071149,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "12",
+    "covered": "no",
+    "name": "BicicletÃ¡rio Bitelli Bikes"
+  }
+},
+{
+  "type": "node",
+  "id": 4745963335,
+  "lat": -3.7929797,
+  "lon": -38.4785963,
+  "tags": {
+    "addr:housenumber": "245",
+    "addr:street": "Rua Marcelino Lopes",
+    "name": "TimÃ³teo Bike",
+    "phone": "+55 85 98522-1061",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 4745963361,
+  "lat": -3.7158401,
+  "lon": -38.5623631,
+  "tags": {
+    "addr:housenumber": "4199",
+    "addr:street": "Avenida Francisco SÃ¡",
+    "name": "Oficina O Luiz",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 4745963362,
+  "lat": -3.7987001,
+  "lon": -38.4802365,
+  "tags": {
+    "addr:housenumber": "140 - loja 4",
+    "addr:street": "Rua Jonas Ildefonso Carneiro",
+    "name": "Bicicletando Bike Shop",
+    "phone": "+55 85 99987-0280",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 4745963377,
+  "lat": -3.7255974,
+  "lon": -38.5290326,
+  "tags": {
+    "addr:housenumber": "355",
+    "addr:street": "Rua SÃ£o Paulo",
+    "addr:suburb": "Centro",
+    "fixme": "Dado coletado hÃ¡ muito tempo, aparentemente mudou o nome, mas permanece uma bicicletaria..",
+    "name": "Kaio Bike",
+    "phone": "+55 85 3021-6238",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 4745963386,
+  "lat": -3.7255988,
+  "lon": -38.5845209,
+  "tags": {
+    "addr:housenumber": "639",
+    "addr:street": "Rua Maria Clara",
+    "name": "Ciclo PeÃ§as Nick",
+    "phone": "+55 85 98858-9505",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 4802540803,
+  "lat": -3.8115535,
+  "lon": -38.5897541,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "4",
+    "covered": "no",
+    "name": "BicicletÃ¡rio da Drogaria Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 4825159371,
+  "lat": -3.7319123,
+  "lon": -38.5477991,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "capacity": "12",
+    "description": "Avenida Bezerra de Menezes, 334 / Esquina Rua Ribeiro da Silva",
+    "name": "JosÃ© Sombra",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 4825556147,
+  "lat": -3.7431469,
+  "lon": -38.5367660,
+  "tags": {
+    "amenity": "fuel"
+  }
+},
+{
+  "type": "node",
+  "id": 4890260792,
+  "lat": -3.7375084,
+  "lon": -38.5836720,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "shed",
+    "capacity": "26",
+    "covered": "yes",
+    "name": "Terminal AntÃ´nio Bezerra",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 4928725835,
+  "lat": -3.7510534,
+  "lon": -38.5003688,
+  "tags": {
+    "access": "permissive",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "6",
+    "covered": "yes",
+    "name": "SCSP - Secretaria de ConservaÃ§Ã£o e ServiÃ§os PÃºblicos de Fortaleza"
+  }
+},
+{
+  "type": "node",
+  "id": 4931518729,
+  "lat": -3.7503518,
+  "lon": -38.4990197,
+  "tags": {
+    "access": "permissive",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "10",
+    "covered": "no",
+    "name": "Rua Compartilhada"
+  }
+},
+{
+  "type": "node",
+  "id": 4937558628,
+  "lat": -3.7332386,
+  "lon": -38.5538981,
+  "tags": {
+    "access": "permissive",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "6",
+    "covered": "yes",
+    "name": "Coffee Time Floricultura"
+  }
+},
+{
+  "type": "node",
+  "id": 4938911394,
+  "lat": -3.7331871,
+  "lon": -38.5079624,
+  "tags": {
+    "access": "permissive",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "8",
+    "covered": "no",
+    "name": "Floresta Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 4938947974,
+  "lat": -3.7309549,
+  "lon": -38.4964584,
+  "tags": {
+    "access": "customers",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "8",
+    "name": "EmpÃ³rio DelitÃ¡lia"
+  }
+},
+{
+  "type": "node",
+  "id": 4955540096,
+  "lat": -3.7394792,
+  "lon": -38.5249556,
+  "tags": {
+    "access": "customers",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "10",
+    "covered": "no",
+    "name": "Jornal O Povo"
+  }
+},
+{
+  "type": "node",
+  "id": 4955540097,
+  "lat": -3.7371631,
+  "lon": -38.5015678,
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "stands",
+    "capacity": "6",
+    "covered": "no",
+    "name": "Opa! Escola de Design"
+  }
+},
+{
+  "type": "node",
+  "id": 4974102025,
+  "lat": -3.7626943,
+  "lon": -38.5692307,
+  "tags": {
+    "addr:street": "Avenida Carneiro de MendonÃ§a",
+    "amenity": "fuel",
+    "name": "Posto SP",
+    "name:en": "Posto SP",
+    "name:pt": "Posto SP"
+  }
+},
+{
+  "type": "node",
+  "id": 4983804285,
+  "lat": -3.7346324,
+  "lon": -38.5103754,
+  "tags": {
+    "addr:housenumber": "100 - loja 4",
+    "addr:street": "Rua Torres CÃ¢mara",
+    "email": "kerobike2017@gmail.com",
+    "name": "Kerobike",
+    "phone": "+55 85 3067-4668 / 98774-8040",
+    "service:bicycle:repair": "yes",
+    "service:bicycle:retail": "yes",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 4988213723,
+  "lat": -3.7337505,
+  "lon": -38.5065031,
+  "tags": {
+    "amenity": "fuel",
+    "name": "Ipiranga",
+    "name:pt": "Ipiranga"
+  }
+},
+{
+  "type": "node",
+  "id": 4988219024,
+  "lat": -3.7335868,
+  "lon": -38.5059817,
+  "tags": {
+    "amenity": "fuel",
+    "name": "Shell",
+    "name:pt": "Shell"
+  }
+},
+{
+  "type": "node",
+  "id": 4988926525,
+  "lat": -3.7376163,
+  "lon": -38.4830530,
+  "tags": {
+    "amenity": "fuel",
+    "name": "Petrosuper",
+    "name:pt": "Petrosuper"
+  }
+},
+{
+  "type": "node",
+  "id": 4990810722,
+  "lat": -3.7193360,
+  "lon": -38.5324194,
+  "tags": {
+    "amenity": "fuel",
+    "name": "Ipiranga",
+    "name:pt": "Ipiranga"
+  }
+},
+{
+  "type": "node",
+  "id": 4990829121,
+  "lat": -3.7208651,
+  "lon": -38.5273778,
+  "tags": {
+    "amenity": "fuel",
+    "name": "BR",
+    "name:pt": "BR"
+  }
+},
+{
+  "type": "node",
+  "id": 4998726771,
+  "lat": -3.7440027,
+  "lon": -38.4856420,
+  "tags": {
+    "amenity": "bicycle_rental",
+    "description": "Avenida Padre AntÃ´nio TomÃ¡s em frente ao Anfiteatro do CocÃ³ / Esquina Rua ValdetÃ¡rio Mota Parque do CocÃ³",
+    "name": "EstaÃ§Ã£o do Anfiteatro do CocÃ³",
+    "network": "Bicicletar",
+    "operator": "Prefeitura Municipal de Fortaleza"
+  }
+}
+
   ]
 }
